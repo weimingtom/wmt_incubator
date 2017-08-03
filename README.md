@@ -29,3 +29,7 @@ My incubator projects index, more important than wmt_todo_list
 * https://github.com/weimingtom/misaki  
 * https://github.com/vurtun/nuklear  
 * https://github.com/weimingtom/yuichan  
+
+## live2d  
+* https://github.com/dameleon/oppai.js  
+* https://github.com/avgjs/pixi-live2d  
