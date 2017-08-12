@@ -17,6 +17,7 @@ My incubator projects index, more important than wmt_todo_list
 * https://github.com/weimingtom/metamorphose  
 * https://github.com/weimingtom/skv8example  
 * https://github.com/weimingtom/sena  
+* https://github.com/weimingtom/nokscript_java  
 
 ## 3D  
 * https://github.com/weimingtom/wmt_link_collections_in_Chinese/blob/master/mmd.md  
