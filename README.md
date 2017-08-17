@@ -18,7 +18,7 @@ My incubator projects index, more important than wmt_todo_list
 * https://github.com/weimingtom/skv8example  
 * https://github.com/weimingtom/sena  
 * https://github.com/weimingtom/nokscript_java  
-* https://github.com/hazzik/Rhino.Net  
+* https://github.com/weimingtom/rhino.net  
 
 ## 3D  
 * https://github.com/weimingtom/wmt_link_collections_in_Chinese/blob/master/mmd.md  
