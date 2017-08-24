@@ -47,3 +47,4 @@ My incubator projects index, more important than wmt_todo_list
 
 ## Media / Live / FFmpeg      
 * https://github.com/weimingtom/CameraBroadcast  
+* https://github.com/weimingtom/ffmpeg-wrapper-hls  
