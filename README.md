@@ -20,6 +20,7 @@ My incubator projects index, more important than wmt_todo_list
 * https://github.com/weimingtom/nokscript_java  
 * https://github.com/weimingtom/rhino.net  
 * https://github.com/weimingtom/myosotis2  
+* https://github.com/yanghuan/CSharp.lua  
 
 ## 3D  
 * https://github.com/weimingtom/wmt_link_collections_in_Chinese/blob/master/mmd.md  
