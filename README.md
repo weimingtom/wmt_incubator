@@ -53,3 +53,6 @@ My incubator projects index, more important than wmt_todo_list
 ## Android remote control  
 * https://github.com/weimingtom/wmt_android_screenshot_adbshell  
 * https://github.com/weimingtom/wmt_android_screenshot  
+
+## Paint  
+* https://github.com/KaitoHH/Painter  
