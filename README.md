@@ -54,5 +54,6 @@ My incubator projects index, more important than wmt_todo_list
 * https://github.com/weimingtom/wmt_android_screenshot_adbshell  
 * https://github.com/weimingtom/wmt_android_screenshot  
 
-## Paint  
+## Paint / Editor  
 * https://github.com/KaitoHH/Painter  
+* https://github.com/weimingtom/Painter/tree/wpf  
