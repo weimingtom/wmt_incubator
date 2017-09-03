@@ -8,7 +8,7 @@ My incubator projects index, more important than wmt_todo_list
 * https://github.com/weimingtom/marika_java  
 
 ## Script Engine     
-**Lua**  
+* **Lua**  
 * https://github.com/weimingtom/mlua  
 * https://github.com/weimingtom/chunktrans_java  
 * https://github.com/weimingtom/chunktrans  
@@ -17,16 +17,16 @@ My incubator projects index, more important than wmt_todo_list
 * https://github.com/weimingtom/metamorphose  
 * https://github.com/weimingtom/sena  
 * https://github.com/yanghuan/CSharp.lua  
-**Java**  
+* **Java**  
 * https://github.com/ledyba/java.js  
-**Javascript**  
+* **Javascript**  
 * https://github.com/weimingtom/skv8example  
 * https://github.com/weimingtom/Rhino.Net  
-**Tjs2**  
+* **Tjs2**  
 * http://git.oschina.net/weimingtom/tjs2study  
-**Nokscript**  
+* **Nokscript**  
 * https://github.com/weimingtom/nokscript_java  
-**Antlr**  
+* **Antlr**  
 * https://github.com/weimingtom/myosotis2  
 
 ## 3D  
