@@ -9,6 +9,7 @@ My incubator projects index, more important than wmt_todo_list
 
 ## Script Engine     
 * **Lua**  
+* (o) https://github.com/weimingtom/KopiLuaCompare  
 * https://github.com/weimingtom/mlua  
 * (o) https://github.com/weimingtom/chunktrans_java    
 * https://github.com/weimingtom/chunktrans  
