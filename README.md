@@ -65,3 +65,9 @@ My incubator projects index, more important than wmt_todo_list
 ## Paint / Editor  
 * https://github.com/KaitoHH/Painter  
 * https://github.com/weimingtom/Painter/tree/wpf  
+
+## Server / Client  
+* https://github.com/cloudwu/skynet  
+* https://github.com/lichuang/qnode  
+* https://github.com/ScutGame/Scut-samples/tree/master/Doudizhu  
+* https://github.com/ScutGame/Client-source  
