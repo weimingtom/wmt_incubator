@@ -5,7 +5,8 @@ My incubator projects index, more important than wmt_todo_list
 * https://github.com/weimingtom/adv_cocos2dx  
 * https://github.com/ScutGame/Client-source  
 * https://github.com/weimingtom/ugame/tree/master/projects/earth_army  
-* https://github.com/weimingtom/marika_java  
+* https://github.com/weimingtom/marika_java  
+* https://github.com/weimingtom/OpenRGSS-RPGMaker  
 
 ## Script Engine     
 * **Lua**  
