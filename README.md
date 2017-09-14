@@ -76,3 +76,8 @@ My incubator projects index, more important than wmt_todo_list
 * https://github.com/lichuang/qnode  
 * https://github.com/ScutGame/Scut-samples/tree/master/Doudizhu  
 * https://github.com/ScutGame/Client-source  
+
+## Emulator / CPU  
+* https://github.com/unicorn-engine/unicorn  
+* https://github.com/AlexAltea/unicorn.js  
+* https://github.com/micropython/micropython-unicorn  
