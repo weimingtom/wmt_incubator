@@ -7,6 +7,7 @@ My incubator projects index, more important than wmt_todo_list
 * https://github.com/weimingtom/ugame/tree/master/projects/earth_army  
 * https://github.com/weimingtom/marika_java  
 * https://github.com/weimingtom/OpenRGSS-RPGMaker  
+* https://github.com/weimingtom/onscripter_en_fork2  
 
 ## Script Engine     
 * **Lua**  
@@ -25,6 +26,7 @@ My incubator projects index, more important than wmt_todo_list
 * **Javascript**  
 * https://github.com/weimingtom/skv8example  
 * https://github.com/weimingtom/Rhino.Net  
+* http://git.oschina.net/weimingtom/tjs2study/tree/master/planestarian_KirikiriSharp/jint  
 * **Tjs2**  
 * http://git.oschina.net/weimingtom/tjs2study  
 * **Nokscript**  
