@@ -21,6 +21,7 @@ My incubator projects index, more important than wmt_todo_list
 * (o) https://github.com/weimingtom/sena    
 * https://github.com/yanghuan/CSharp.lua  
 * http://git.oschina.net/weimingtom/LuaNMod  
+* http://git.oschina.net/weimingtom/KopiLuaInterfaceMod  
 * **Java**  
 * https://github.com/ledyba/java.js  
 * **Javascript**  
