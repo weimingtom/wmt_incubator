@@ -23,6 +23,7 @@ My incubator projects index, more important than wmt_todo_list
 * http://git.oschina.net/weimingtom/LuaNMod  
 * http://git.oschina.net/weimingtom/KopiLuaInterfaceMod  
 * https://github.com/weimingtom/KuukoBack  
+* https://gitee.com/weimingtom/lua-5.1.4_profile  
 * **Java**  
 * https://github.com/ledyba/java.js  
 * **Javascript**  
