@@ -31,6 +31,7 @@ My incubator projects index, more important than wmt_todo_list
 * https://github.com/weimingtom/Rhino.Net  
 * http://git.oschina.net/weimingtom/tjs2study/tree/master/planestarian_KirikiriSharp/jint  
 * https://github.com/weimingtom/rhinomod  
+* https://github.com/weimingtom/criscript  
 * **Tjs2**  
 * http://git.oschina.net/weimingtom/tjs2study  
 * **Nokscript**  
