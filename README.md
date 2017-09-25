@@ -26,6 +26,7 @@ My incubator projects index, more important than wmt_todo_list
 * https://github.com/weimingtom/KuukoBack  
 * https://gitee.com/weimingtom/lua-5.1.4_profile  
 * https://github.com/weimingtom/llvm-lua-archive  
+* https://github.com/weimingtom/metamorphose_go  
 
 ### (2) Java  
 * https://github.com/ledyba/java.js  
@@ -65,6 +66,7 @@ My incubator projects index, more important than wmt_todo_list
 * https://github.com/weimingtom/misaki  
 * https://github.com/vurtun/nuklear  
 * https://github.com/weimingtom/yuichan  
+* https://github.com/weimingtom/yuichan_go  
 
 ## live2d  
 * https://github.com/dameleon/oppai.js  
