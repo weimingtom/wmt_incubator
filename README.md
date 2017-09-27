@@ -92,6 +92,8 @@ My incubator projects index, more important than wmt_todo_list
 * https://github.com/lichuang/qnode  
 * https://github.com/ScutGame/Scut-samples/tree/master/Doudizhu  
 * https://github.com/ScutGame/Client-source  
+* http://forthxu.com/blog/skynet.html  
+* https://github.com/zero-rp/ZNet  
 
 ## Emulator / CPU  
 * https://github.com/unicorn-engine/unicorn  
