@@ -27,6 +27,7 @@ My incubator projects index, more important than wmt_todo_list
 * https://gitee.com/weimingtom/lua-5.1.4_profile  
 * https://github.com/weimingtom/llvm-lua-archive  
 * https://github.com/weimingtom/metamorphose_go  
+* https://github.com/weimingtom/metamorphose_csharp  
 
 ### (2) Java  
 * https://github.com/ledyba/java.js  
