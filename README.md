@@ -8,6 +8,7 @@ My incubator projects index, more important than wmt_todo_list
 * https://github.com/weimingtom/marika_java  
 * https://github.com/weimingtom/OpenRGSS-RPGMaker  
 * https://github.com/weimingtom/onscripter_en_fork2  
+* https://github.com/hyizsg/ddz  
 
 ## Script Engine     
 
