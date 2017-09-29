@@ -9,6 +9,9 @@ My incubator projects index, more important than wmt_todo_list
 * https://github.com/weimingtom/OpenRGSS-RPGMaker  
 * https://github.com/weimingtom/onscripter_en_fork2  
 * https://github.com/hyizsg/ddz  
+* http://lua.mine.nu/w/LuaBookSupport  
+* https://github.com/weimingtom/game_gocha  
+* https://github.com/9chu/LuaSTGPlus  
 
 ## Script Engine     
 
@@ -30,6 +33,7 @@ My incubator projects index, more important than wmt_todo_list
 * https://github.com/weimingtom/metamorphose_go  
 * https://github.com/weimingtom/metamorphose_csharp  
 * https://github.com/mysql/mysql-proxy  
+* https://github.com/weimingtom/Kuuko/blob/master/lua_hack.md  
 
 ### (2) Java  
 * https://github.com/ledyba/java.js  
