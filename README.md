@@ -22,13 +22,14 @@ My incubator projects index, more important than wmt_todo_list
 * https://github.com/weimingtom/metamorphose  
 * (o) https://github.com/weimingtom/sena    
 * https://github.com/yanghuan/CSharp.lua  
-* http://git.oschina.net/weimingtom/LuaNMod  
-* http://git.oschina.net/weimingtom/KopiLuaInterfaceMod  
-* https://github.com/weimingtom/KuukoBack  
+* (o) http://git.oschina.net/weimingtom/LuaNMod  
+* (o) http://git.oschina.net/weimingtom/KopiLuaInterfaceMod  
+* (o) https://github.com/weimingtom/KuukoBack  
 * https://gitee.com/weimingtom/lua-5.1.4_profile  
 * https://github.com/weimingtom/llvm-lua-archive  
 * https://github.com/weimingtom/metamorphose_go  
 * https://github.com/weimingtom/metamorphose_csharp  
+* https://github.com/mysql/mysql-proxy  
 
 ### (2) Java  
 * https://github.com/ledyba/java.js  
@@ -101,3 +102,4 @@ My incubator projects index, more important than wmt_todo_list
 * https://github.com/unicorn-engine/unicorn  
 * https://github.com/AlexAltea/unicorn.js  
 * https://github.com/micropython/micropython-unicorn  
+
