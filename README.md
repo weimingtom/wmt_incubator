@@ -44,6 +44,7 @@ My incubator projects index, more important than wmt_todo_list
 * http://git.oschina.net/weimingtom/tjs2study/tree/master/planestarian_KirikiriSharp/jint  
 * https://github.com/weimingtom/rhinomod  
 * https://github.com/weimingtom/criscript  
+* search 微信小游戏源码80套  
 
 ### (4) Tjs2  
 * http://git.oschina.net/weimingtom/tjs2study  
