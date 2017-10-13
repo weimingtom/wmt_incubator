@@ -37,6 +37,7 @@ My incubator projects' index, more important than wmt_todo_list
 
 ### (2) Java  
 * https://github.com/ledyba/java.js  
+* https://github.com/weimingtom/dalvik_cygwin_port  
 
 ### (3) Javascript  
 * https://github.com/weimingtom/skv8example  
