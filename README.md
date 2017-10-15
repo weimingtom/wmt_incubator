@@ -12,6 +12,7 @@ My incubator projects' index, more important than wmt_todo_list
 * http://lua.mine.nu/w/LuaBookSupport  
 * https://github.com/weimingtom/game_gocha  
 * https://github.com/9chu/LuaSTGPlus  
+* https://gitee.com/weimingtom/StarCraft-1  
 
 ## Script Engine     
 
