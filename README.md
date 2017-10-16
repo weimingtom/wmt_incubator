@@ -13,6 +13,7 @@ My incubator projects' index, more important than wmt_todo_list
 * https://github.com/weimingtom/game_gocha  
 * https://github.com/9chu/LuaSTGPlus  
 * https://gitee.com/weimingtom/StarCraft-1  
+* https://github.com/dabroz/mruby-simple-game-engine  
 
 ## Script Engine     
 
