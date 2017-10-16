@@ -27,8 +27,8 @@ My incubator projects' index, more important than wmt_todo_list
 * https://github.com/weimingtom/metamorphose  
 * (o) https://github.com/weimingtom/sena    
 * https://github.com/yanghuan/CSharp.lua  
-* (o) http://git.oschina.net/weimingtom/LuaNMod  
-* (o) http://git.oschina.net/weimingtom/KopiLuaInterfaceMod  
+* (pending) http://git.oschina.net/weimingtom/LuaNMod  
+* (pending) http://git.oschina.net/weimingtom/KopiLuaInterfaceMod  
 * (o) https://github.com/weimingtom/KuukoBack  
 * https://gitee.com/weimingtom/lua-5.1.4_profile  
 * https://github.com/weimingtom/llvm-lua-archive  
