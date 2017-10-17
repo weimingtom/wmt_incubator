@@ -36,6 +36,7 @@ My incubator projects' index, more important than wmt_todo_list
 * https://github.com/weimingtom/metamorphose_csharp  
 * https://github.com/mysql/mysql-proxy  
 * https://github.com/weimingtom/Kuuko/blob/master/lua_hack.md  
+* https://gitee.com/weimingtom/lua1mod  
 
 ### (2) Java  
 * https://github.com/ledyba/java.js  
