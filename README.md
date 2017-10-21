@@ -56,6 +56,7 @@ My incubator projects' index, more important than wmt_todo_list
 * ExecuteCode  
 * search habakiri in my baidu pan  
 * KAS4PC / moka  
+* search kage-kirie in baidupan  
 
 ### (5) Nokscript  
 * https://github.com/weimingtom/nokscript_java  
