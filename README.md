@@ -44,7 +44,7 @@ My incubator projects' index, more important than wmt_todo_list
 
 ### (3) Javascript  
 * https://github.com/weimingtom/skv8example  
-* https://github.com/weimingtom/Rhino.Net  
+* (Debugger, IDE) https://github.com/weimingtom/Rhino.Net  
 * http://git.oschina.net/weimingtom/tjs2study/tree/master/planestarian_KirikiriSharp/jint  
 * https://github.com/weimingtom/rhinomod  
 * https://github.com/weimingtom/criscript  
