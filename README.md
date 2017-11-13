@@ -50,6 +50,8 @@ My incubator projects' index, more important than wmt_todo_list
 * https://github.com/weimingtom/criscript  
 * search 微信小游戏源码80套  
 * https://github.com/weimingtom/wmt_link_collections_in_Chinese/blob/master/html5_port.md  
+* lemon (js like)  
+https://github.com/lemon-lang/lemon  
 
 ### (4) Tjs2  
 * http://git.oschina.net/weimingtom/tjs2study  
