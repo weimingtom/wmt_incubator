@@ -88,6 +88,8 @@ https://github.com/weimingtom/lemon
 * https://github.com/vurtun/nuklear  
 * https://github.com/weimingtom/yuichan  
 * https://github.com/weimingtom/yuichan_go  
+* https://github.com/libRocket/libRocket  
+
 
 ## live2d  
 * https://github.com/dameleon/oppai.js  
