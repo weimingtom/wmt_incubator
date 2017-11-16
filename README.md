@@ -89,7 +89,8 @@ https://github.com/weimingtom/lemon
 * https://github.com/weimingtom/yuichan  
 * https://github.com/weimingtom/yuichan_go  
 * https://github.com/libRocket/libRocket  
-
+* https://github.com/dayongxie/MyGUI  
+* https://github.com/dayongxie/cocos2d-x  
 
 ## live2d  
 * https://github.com/dameleon/oppai.js  
