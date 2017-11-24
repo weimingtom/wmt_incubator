@@ -133,6 +133,7 @@ OpenTK (for xp)
 andengine  
 https://github.com/AlessandroBorges/madri-gles  
 https://community.arm.com/graphics/f/discussions/5594/latest-mali-gles-1-1-emulator-x86-x64  
+https://github.com/weimingtom/nuklear/blob/master/CodeLiteWorkspace/nuklear/nuklear_sdl.c  
 
 ## minigui  
 * https://github.com/VincentWei/minigui  
