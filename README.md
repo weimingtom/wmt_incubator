@@ -38,9 +38,10 @@ My incubator projects' index, more important than wmt_todo_list
 * https://github.com/weimingtom/Kuuko/blob/master/lua_hack.md  
 * https://gitee.com/weimingtom/lua1mod  
 
-### (2) Java  
+### (2) Java / dalvik    
 * https://github.com/ledyba/java.js  
 * https://github.com/weimingtom/dalvik_cygwin_port  
+* https://github.com/linkedin/dexmaker  
 
 ### (3) Javascript  
 * https://github.com/weimingtom/skv8example  
