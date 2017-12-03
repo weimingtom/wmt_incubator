@@ -92,6 +92,7 @@ https://github.com/weimingtom/lemon
 * https://github.com/libRocket/libRocket  
 * https://github.com/dayongxie/MyGUI  
 * https://github.com/dayongxie/cocos2d-x  
+* https://github.com/nodemcu/nodemcu-studio-csharp  
 
 ## live2d  
 * https://github.com/dameleon/oppai.js  
