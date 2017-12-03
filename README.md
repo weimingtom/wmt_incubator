@@ -129,6 +129,8 @@ https://github.com/weimingtom/lemon
 * todo  
 
 ## OpenGL ES  
+* https://gitee.com/weimingtom/TriangleSample  
+* https://gitee.com/weimingtom/angle  
 * PSSSDK  
 * OpenTK (for xp)    
 * andengine  
