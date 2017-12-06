@@ -72,8 +72,9 @@ https://github.com/weimingtom/lemon
 ### (7) Ruby  
 * https://gitee.com/weimingtom/rubymod  
 
-### (8) sqlite  
+### (8) sqlite / leveldb    
 * https://github.com/weimingtom/CsharpSQLite  
+* https://github.com/weimingtom/leveldb-java/tree/wmt-eclipse  
 
 ## 3D  
 * https://github.com/weimingtom/wmt_link_collections_in_Chinese/blob/master/mmd.md  
