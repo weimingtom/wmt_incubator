@@ -72,6 +72,9 @@ https://github.com/weimingtom/lemon
 ### (7) Ruby  
 * https://gitee.com/weimingtom/rubymod  
 
+### (8) sqlite  
+* https://github.com/weimingtom/CsharpSQLite  
+
 ## 3D  
 * https://github.com/weimingtom/wmt_link_collections_in_Chinese/blob/master/mmd.md  
 * https://github.com/weimingtom/BlenderStudy  
