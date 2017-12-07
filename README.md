@@ -14,6 +14,8 @@ My incubator projects' index, more important than wmt_todo_list
 * https://github.com/9chu/LuaSTGPlus  
 * https://gitee.com/weimingtom/StarCraft-1  
 * https://github.com/dabroz/mruby-simple-game-engine  
+* https://sourceforge.net/projects/jgame-engine/  
+* http://www.13thmonkey.org/~boris/jgame/  
 
 ## Script Engine     
 
