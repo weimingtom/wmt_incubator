@@ -16,6 +16,7 @@ My incubator projects' index, more important than wmt_todo_list
 * https://github.com/dabroz/mruby-simple-game-engine  
 * https://sourceforge.net/projects/jgame-engine/  
 * http://www.13thmonkey.org/~boris/jgame/  
+* https://github.com/Mogara/QSanguosha  
 
 ## Script Engine     
 
