@@ -40,6 +40,7 @@ My incubator projects' index, more important than wmt_todo_list
 * https://github.com/mysql/mysql-proxy  
 * https://github.com/weimingtom/Kuuko/blob/master/lua_hack.md  
 * https://gitee.com/weimingtom/lua1mod  
+* https://sourceforge.net/projects/cfwlua/  
 
 ### (2) Java / dalvik    
 * https://github.com/ledyba/java.js  
