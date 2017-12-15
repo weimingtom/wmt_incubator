@@ -8,6 +8,8 @@ My incubator projects' index, more important than wmt_todo_list
 * https://github.com/weimingtom/marika_java  
 * https://github.com/weimingtom/OpenRGSS-RPGMaker  
 * https://github.com/weimingtom/onscripter_en_fork2  
+* https://github.com/natdon/ONScripter-CN  
+search baidupan  
 * https://github.com/hyizsg/ddz  
 * http://lua.mine.nu/w/LuaBookSupport  
 * https://github.com/weimingtom/game_gocha  
