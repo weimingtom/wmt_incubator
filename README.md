@@ -62,6 +62,7 @@ search baidupan
 * lemon (js like)  
 https://github.com/lemon-lang/lemon  
 https://github.com/weimingtom/lemon  
+* https://github.com/weimingtom/mujs  
 
 ### (4) Tjs2  
 * http://git.oschina.net/weimingtom/tjs2study  
