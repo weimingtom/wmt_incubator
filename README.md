@@ -63,6 +63,8 @@ search baidupan
 https://github.com/lemon-lang/lemon  
 https://github.com/weimingtom/lemon  
 * https://github.com/weimingtom/mujs  
+* https://github.com/nginx/njs  
+search baidupan  
 
 ### (4) Tjs2  
 * http://git.oschina.net/weimingtom/tjs2study  
