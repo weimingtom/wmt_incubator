@@ -145,6 +145,7 @@ https://github.com/cexer/wke
 * https://github.com/mrboggieman/Arduboy.js  
 * https://github.com/buserror/simavr  
 * https://github.com/arduboy-emulator/sim-arduboy  
+* https://github.com/stg/arduboy-for-pc  
 
 ## Arm Linux  
 * todo  
