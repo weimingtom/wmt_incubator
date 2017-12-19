@@ -142,6 +142,7 @@ https://github.com/cexer/wke
 * https://github.com/unicorn-engine/unicorn  
 * https://github.com/AlexAltea/unicorn.js  
 * https://github.com/micropython/micropython-unicorn  
+* https://github.com/mrboggieman/Arduboy.js  
 
 ## Arm Linux  
 * todo  
