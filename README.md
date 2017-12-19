@@ -143,6 +143,8 @@ https://github.com/cexer/wke
 * https://github.com/AlexAltea/unicorn.js  
 * https://github.com/micropython/micropython-unicorn  
 * https://github.com/mrboggieman/Arduboy.js  
+* https://github.com/buserror/simavr  
+* https://github.com/arduboy-emulator/sim-arduboy  
 
 ## Arm Linux  
 * todo  
