@@ -91,6 +91,9 @@ https://github.com/cexer/wke
 * https://github.com/weimingtom/CsharpSQLite  
 * https://github.com/weimingtom/leveldb-java/tree/wmt-eclipse  
 
+### (9) jython  
+* https://github.com/weimingtom/jython_playground  
+
 ## 3D  
 * https://github.com/weimingtom/wmt_link_collections_in_Chinese/blob/master/mmd.md  
 * https://github.com/weimingtom/BlenderStudy  
