@@ -67,10 +67,12 @@ https://github.com/weimingtom/lemon
 search baidupan  
 * JavaScriptCore / jsc  
 https://github.com/cexer/wke  
+* https://github.com/sebastienros/jint  
 
 ### (4) Tjs2  
 * http://git.oschina.net/weimingtom/tjs2study  
-* ExecuteCode  
+* include jint  
+* search ExecuteCode  
 * search habakiri in my baidu pan  
 * KAS4PC / moka  
 * search kage-kirie in baidupan  
