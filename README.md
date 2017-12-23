@@ -69,6 +69,7 @@ search baidupan
 * JavaScriptCore / jsc  
 https://github.com/cexer/wke  
 * https://github.com/sebastienros/jint  
+see tjs2study  
 
 ### (4) Tjs2  
 * http://git.oschina.net/weimingtom/tjs2study  
