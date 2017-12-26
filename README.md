@@ -19,6 +19,7 @@ search baidupan
 * https://sourceforge.net/projects/jgame-engine/  
 * http://www.13thmonkey.org/~boris/jgame/  
 * https://github.com/Mogara/QSanguosha  
+* https://github.com/alexschrod/freedink-lua  
 
 ## Script Engine     
 
