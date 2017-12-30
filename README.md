@@ -94,8 +94,10 @@ see tjs2study
 * https://github.com/weimingtom/CsharpSQLite  
 * https://github.com/weimingtom/leveldb-java/tree/wmt-eclipse  
 
-### (9) jython  
+### (9) jython / ironpython    
 * https://github.com/weimingtom/jython_playground  
+* https://github.com/weimingtom/IronPythonMod  
+search getilgenerator python  
 
 ## 3D  
 * https://github.com/weimingtom/wmt_link_collections_in_Chinese/blob/master/mmd.md  
