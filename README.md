@@ -42,7 +42,7 @@ search baidupan
 * https://github.com/weimingtom/metamorphose_csharp  
 * https://github.com/mysql/mysql-proxy  
 * https://github.com/weimingtom/Kuuko/blob/master/lua_hack.md  
-* https://gitee.com/weimingtom/lua1mod  
+* https://github.com/weimingtom/lua1mod   
 * https://sourceforge.net/projects/cfwlua/  
 * https://gitee.com/weimingtom/LuaTest/tree/master/XNA%20Lua/XNA%20Lua/XNA%20Lua  
 * https://github.com/weimingtom/lua-checker_win  
