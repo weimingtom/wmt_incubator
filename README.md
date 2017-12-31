@@ -71,6 +71,9 @@ search baidupan
 https://github.com/cexer/wke  
 * https://github.com/sebastienros/jint  
 see tjs2study  
+* Lucene Expressions  
+https://github.com/apache/lucenenet/tree/master/src/Lucene.Net.Expressions  
+https://github.com/apache/lucene-solr/tree/master/lucene/expressions/src/java/org/apache/lucene/expressions  
 
 ### (4) Tjs2  
 * http://git.oschina.net/weimingtom/tjs2study  
