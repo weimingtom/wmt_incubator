@@ -171,6 +171,7 @@ search getilgenerator python
 * https://github.com/weimingtom/nuklear/blob/master/CodeLiteWorkspace/nuklear/nuklear_sdl.c  
 * https://github.com/weimingtom/crateris/  
 * https://github.com/CoherentLabs/angle/tree/develop  
+* https://github.com/KhronosGroup/glslang  
 
 ## minigui  
 * https://github.com/VincentWei/minigui  
