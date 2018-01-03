@@ -54,6 +54,8 @@ port to java
 * https://github.com/linkedin/dexmaker  
 * https://github.com/AndroidSDKSources  
 * https://github.com/jethazel/jet-compiler  
+search OP_CONST_16 dalvik  
+* https://gitee.com/weimingtom/in-the-box  
 
 ### (3) Javascript  
 * https://github.com/weimingtom/skv8example  
