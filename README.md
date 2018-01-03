@@ -52,6 +52,7 @@ port to java
 * https://github.com/ledyba/java.js  
 * https://github.com/weimingtom/dalvik_cygwin_port  
 * https://github.com/linkedin/dexmaker  
+* https://github.com/AndroidSDKSources  
 
 ### (3) Javascript  
 * https://github.com/weimingtom/skv8example  
