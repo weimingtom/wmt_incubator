@@ -71,7 +71,7 @@ https://github.com/weimingtom/lemon
 * https://github.com/weimingtom/mujs  
 * https://github.com/nginx/njs  
 search baidupan  
-* (o) JavaScriptCore / jsc  
+* (o) JavaScriptCore / jsc  
 https://github.com/cexer/wke  
 * https://github.com/sebastienros/jint  
 see tjs2study  
