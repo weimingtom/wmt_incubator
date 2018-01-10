@@ -5,6 +5,7 @@ My incubator projects' index, more important than wmt_todo_list
 * https://gitee.com/weimingtom/TriangleSample  
 * https://github.com/weimingtom/cecilia  
 * https://github.com/weimingtom/onscripter_en_fork2  
+* https://github.com/weimingtom/kaleido  
 
 ## Game Study  
 * https://github.com/weimingtom/adv_cocos2dx  
