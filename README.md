@@ -28,6 +28,12 @@ search baidupan
 * http://www.13thmonkey.org/~boris/jgame/  
 * https://github.com/Mogara/QSanguosha  
 * https://github.com/alexschrod/freedink-lua  
+* しょぼんのアクション (猫版马里奥, 猫里奥）  
+search my baidupan with '猫版马里奥'    
+https://skydrive.live.com/?cid=a6906c9852f9c0c8&id=A6906C9852F9C0C8%21174  
+http://www.iteye.com/topic/384169  
+Applet version (need IE and Java Applet)  
+http://www.geocities.jp/z_gundam_tanosii/home/applet/Main.html  
 
 ## Script Engine     
 
