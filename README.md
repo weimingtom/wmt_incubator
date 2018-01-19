@@ -204,16 +204,16 @@ search getilgenerator python
 * https://mp.weixin.qq.com/debug/wxadoc/dev/index.html  
 
 ## Gallery / booru  
-Web / php    
+* web / php  
 * https://github.com/weimingtom/nanamichan  
-danbo  
+* danbo  
 * https://github.com/alix-/danbo  
 * https://github.com/weimingtom/danbo  
-MoeGallery  
+* MoeGallery  
 * http://cn.v2ex.com/t/201763  
 * https://github.com/kurumi-moe/MoeGallery  
-MBooru  
+* MBooru  
 * https://github.com/sin3hz/Mbooru  
-etc  
+* etc  
 * https://github.com/Palatis/danbooru-gallery-android  
 * https://github.com/tjg1/nori  
