@@ -161,6 +161,7 @@ search getilgenerator python
 ## Paint / Editor  
 * https://github.com/KaitoHH/Painter  
 * https://github.com/weimingtom/Painter/tree/wpf  
+* https://github.com/1j01/jspaint  
 
 ## Server / Client  
 * https://github.com/cloudwu/skynet  
