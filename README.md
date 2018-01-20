@@ -34,6 +34,7 @@ https://skydrive.live.com/?cid=a6906c9852f9c0c8&id=A6906C9852F9C0C8%21174
 http://www.iteye.com/topic/384169  
 Applet version (need IE and Java Applet)  
 http://www.geocities.jp/z_gundam_tanosii/home/applet/Main.html  
+* http://assets.dwstatic.com/amkit/p/tank/play.html  
 
 ## Script Engine     
 
