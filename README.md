@@ -179,11 +179,7 @@ search getilgenerator python
 * https://github.com/mrboggieman/Arduboy.js  
 * https://github.com/buserror/simavr  
 * https://github.com/arduboy-emulator/sim-arduboy  
-* https://github.com/stg/arduboy-for-pc  
-http://bbs.tgbus.com/thread-3554594-1-1.html  
-search baidu upan  
-GarboDev-src-20060313.zip  
-https://github.com/NewChromantics/PopUnityBoy  
+* https://gitee.com/weimingtom/GarboDev  
 
 ## Arm Linux  
 * todo  
