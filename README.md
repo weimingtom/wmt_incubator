@@ -172,7 +172,7 @@ search getilgenerator python
 * http://forthxu.com/blog/skynet.html  
 * https://github.com/zero-rp/ZNet  
 
-## Emulator / CPU  
+## Emulator / CPU / Game Emulator    
 * https://github.com/unicorn-engine/unicorn  
 * https://github.com/AlexAltea/unicorn.js  
 * https://github.com/micropython/micropython-unicorn  
@@ -180,6 +180,10 @@ search getilgenerator python
 * https://github.com/buserror/simavr  
 * https://github.com/arduboy-emulator/sim-arduboy  
 * https://github.com/stg/arduboy-for-pc  
+http://bbs.tgbus.com/thread-3554594-1-1.html  
+search baidu upan  
+GarboDev-src-20060313.zip  
+https://github.com/NewChromantics/PopUnityBoy  
 
 ## Arm Linux  
 * todo  
