@@ -222,3 +222,7 @@ search getilgenerator python
 
 ## xna  
 * https://github.com/Cocos2DXNA/cocos2d-xna  
+
+## Ruby Game Engine Port  
+* http://dxruby.osdn.jp  
+* https://github.com/weimingtom/OpenRGSS-RPGMaker  
