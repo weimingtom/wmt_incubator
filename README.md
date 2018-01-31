@@ -62,6 +62,8 @@ http://www.geocities.jp/z_gundam_tanosii/home/applet/Main.html
 * https://gitee.com/weimingtom/LuaTest/tree/master/XNA%20Lua/XNA%20Lua/XNA%20Lua  
 * https://github.com/weimingtom/lua-checker_win  
 port to java  
+* https://github.com/weimingtom/MiniUI  
+* https://github.com/luabind/luabind  
 
 ### (2) Java / dalvik    
 * https://github.com/ledyba/java.js  
