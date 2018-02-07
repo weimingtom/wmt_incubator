@@ -64,6 +64,8 @@ http://www.geocities.jp/z_gundam_tanosii/home/applet/Main.html
 port to java  
 * https://github.com/weimingtom/MiniUI  
 * https://github.com/luabind/luabind  
+* https://www.codeproject.com/Articles/4723/LuaDotNet-a-thin-wrapper-around-Lua-and-Luabind-fo  
+* https://github.com/neolithos/neolua  
 
 ### (2) Java / dalvik    
 * https://github.com/ledyba/java.js  
