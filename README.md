@@ -182,7 +182,7 @@ search getilgenerator python
 * https://github.com/micropython/micropython-unicorn  
 * https://github.com/mrboggieman/Arduboy.js  
 * https://github.com/buserror/simavr  
-* https://github.com/arduboy-emulator/sim-arduboy  
+* (o) https://github.com/arduboy-emulator/sim-arduboy  
 * https://gitee.com/weimingtom/GarboDev  
 
 ## Arm Linux  
