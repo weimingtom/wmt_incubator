@@ -57,7 +57,8 @@ http://www.geocities.jp/z_gundam_tanosii/home/applet/Main.html
 * https://github.com/weimingtom/metamorphose_csharp  
 * https://github.com/mysql/mysql-proxy  
 * https://github.com/weimingtom/Kuuko/blob/master/lua_hack.md  
-* https://github.com/weimingtom/lua1mod   
+* (pending) https://github.com/weimingtom/lua1mod  
+ref manual translate  
 * https://sourceforge.net/projects/cfwlua/  
 * https://gitee.com/weimingtom/LuaTest/tree/master/XNA%20Lua/XNA%20Lua/XNA%20Lua  
 * https://github.com/weimingtom/lua-checker_win  
