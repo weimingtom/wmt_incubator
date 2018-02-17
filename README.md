@@ -126,6 +126,8 @@ https://github.com/apache/lucene-solr/tree/master/lucene/expressions/src/java/or
 * https://github.com/weimingtom/jython_playground  
 * https://github.com/weimingtom/IronPythonMod  
 search getilgenerator python  
+* https://github.com/weimingtom/UniLuaMod  
+* (o) boo, see baidu pan  
 
 ## 3D  
 * https://github.com/weimingtom/wmt_link_collections_in_Chinese/blob/master/mmd.md  
