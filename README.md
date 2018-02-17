@@ -68,7 +68,7 @@ port to java
 * https://www.codeproject.com/Articles/4723/LuaDotNet-a-thin-wrapper-around-Lua-and-Luabind-fo  
 * https://github.com/neolithos/neolua  
 * (o) https://github.com/weimingtom/UniLuaMod  
-see baidu pan  
+see baidu pan, jp.unity3d.SW2_2015-04-26.apk  
 
 ### (2) Java / dalvik    
 * https://github.com/ledyba/java.js  
