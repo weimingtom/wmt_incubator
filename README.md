@@ -229,6 +229,10 @@ search getilgenerator python
 * https://github.com/Palatis/danbooru-gallery-android  
 * https://github.com/tjg1/nori  
 
+## Gallery, not booru   
+* piwigo  
+http://cn.piwigo.org  
+
 ## xna  
 * https://github.com/Cocos2DXNA/cocos2d-xna  
 
