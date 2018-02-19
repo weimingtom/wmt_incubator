@@ -242,6 +242,7 @@ http://cn.piwigo.org
 ## Ruby Game Engine Port  
 * http://dxruby.osdn.jp  
 * https://github.com/weimingtom/OpenRGSS-RPGMaker  
+* https://github.com/hajimehoshi/starruby  
 
 ## Flash  
 * https://github.com/AlternativaPlatform/Alternativa3D  
