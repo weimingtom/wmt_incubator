@@ -9,6 +9,9 @@ My incubator projects' index, more important than wmt_todo_list
 * https://github.com/weimingtom/kaleido  
 * https://gitee.com/weimingtom/sdlport2  
 
+## Note  
+* https://github.com/weimingtom/wmt_software_skills  
+
 ## Game Study  
 * https://github.com/weimingtom/adv_cocos2dx  
 * https://github.com/ScutGame/Client-source  
