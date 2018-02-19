@@ -243,6 +243,7 @@ http://cn.piwigo.org
 * http://dxruby.osdn.jp  
 * https://github.com/weimingtom/OpenRGSS-RPGMaker  
 * https://github.com/hajimehoshi/starruby  
+* https://github.com/weimingtom/wmt_link_collections_in_Chinese/blob/master/ruby_game.md  
 
 ## Flash  
 * https://github.com/AlternativaPlatform/Alternativa3D  
