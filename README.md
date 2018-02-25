@@ -183,6 +183,8 @@ search getilgenerator python
 * https://github.com/ScutGame/Client-source  
 * http://forthxu.com/blog/skynet.html  
 * https://github.com/zero-rp/ZNet  
+* memcached and memcached client  
+* https://github.com/weimingtom/mmc_study  
 
 ## Emulator / CPU / Game Emulator    
 * https://github.com/unicorn-engine/unicorn  
