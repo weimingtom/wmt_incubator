@@ -45,6 +45,7 @@ http://www.geocities.jp/z_gundam_tanosii/home/applet/Main.html
 
 ### (2) html5  
 * https://github.com/weimingtom/wmt_link_collections_in_Chinese/blob/master/README.md#html5  
+* search baidu pan: poh7  
 
 ## Script Engine     
 
