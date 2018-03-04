@@ -13,6 +13,7 @@ My incubator projects' index, more important than wmt_todo_list
 * https://github.com/weimingtom/wmt_software_skills  
 
 ## Game Study  
+### (1) etc  
 * https://github.com/weimingtom/adv_cocos2dx  
 * https://github.com/ScutGame/Client-source  
 * https://github.com/weimingtom/ugame/tree/master/projects/earth_army  
@@ -41,6 +42,9 @@ http://www.geocities.jp/z_gundam_tanosii/home/applet/Main.html
 * https://github.com/weimingtom/ugame/tree/master/projects/arcv04  
 * https://github.com/weimingtom/GalGame-Project-G  
 * https://github.com/jxWho/GalGame  
+
+### (2) html5  
+* https://github.com/weimingtom/wmt_link_collections_in_Chinese/blob/master/README.md#html5  
 
 ## Script Engine     
 
