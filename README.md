@@ -38,6 +38,7 @@ http://www.iteye.com/topic/384169
 Applet version (need IE and Java Applet)  
 http://www.geocities.jp/z_gundam_tanosii/home/applet/Main.html  
 * http://assets.dwstatic.com/amkit/p/tank/play.html  
+* https://github.com/weimingtom/ugame/tree/master/projects/arcv04  
 
 ## Script Engine     
 
@@ -72,6 +73,7 @@ port to java
 * https://github.com/neolithos/neolua  
 * (o) https://github.com/weimingtom/UniLuaMod  
 see baidu pan, jp.unity3d.SW2_2015-04-26.apk  
+* https://github.com/weimingtom/prophecy  
 
 ### (2) Java / dalvik    
 * https://github.com/ledyba/java.js  
@@ -132,6 +134,10 @@ https://github.com/apache/lucene-solr/tree/master/lucene/expressions/src/java/or
 search getilgenerator python  
 * https://github.com/weimingtom/UniLuaMod  
 * (o) boo, see baidu pan  
+
+### (10) etc  
+* https://github.com/weimingtom/RipString2  
+* https://github.com/weimingtom/ugame/tree/master/projects/galgame  
 
 ## 3D  
 * https://github.com/weimingtom/wmt_link_collections_in_Chinese/blob/master/mmd.md  
@@ -237,6 +243,7 @@ search getilgenerator python
 ## Gallery, not booru   
 * piwigo  
 http://cn.piwigo.org  
+* https://github.com/weimingtom/ugame/tree/master/projects/SlideShow  
 
 ## xna  
 * https://github.com/Cocos2DXNA/cocos2d-xna  
@@ -252,6 +259,7 @@ http://cn.piwigo.org
 * https://github.com/moketao/HEditor  
 * https://github.com/beimi/GameUI  
 * https://github.com/dreamsxin/AsWing  
+* https://github.com/weimingtom/ugame/tree/master/projects  
 
 ## Unity 4  
 * http://tieba.baidu.com/p/4453892632  
@@ -259,6 +267,8 @@ http://cn.piwigo.org
 * https://github.com/liudonghua/Novel  
 * https://github.com/wangsy1985/UnityProjects  
 
+
 ## Unity 5
-* TODO  
+* https://github.com/caixuehao/GalGame  
+
 
