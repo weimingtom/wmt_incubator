@@ -50,6 +50,7 @@ http://www.geocities.jp/z_gundam_tanosii/home/applet/Main.html
 * search baidu pan: poh7  
 * https://www.bilibili.com/html/activity-qixi2016.html  
 * search baidu pan: Bilibili七夕之约_v2.rar  
+* https://github.com/weimingtom/GalGame-1/tree/master/html  
 
 ## Script Engine     
 
