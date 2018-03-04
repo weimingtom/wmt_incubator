@@ -45,7 +45,11 @@ http://www.geocities.jp/z_gundam_tanosii/home/applet/Main.html
 
 ### (2) html5  
 * https://github.com/weimingtom/wmt_link_collections_in_Chinese/blob/master/README.md#html5  
+* https://paiza.jp/poh/ando  
+* http://acg.178.com/201512/243640292879.html  
 * search baidu pan: poh7  
+* https://www.bilibili.com/html/activity-qixi2016.html  
+* search baidu pan: Bilibili七夕之约_v2.rar  
 
 ## Script Engine     
 
