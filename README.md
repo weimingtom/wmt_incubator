@@ -39,6 +39,8 @@ Applet version (need IE and Java Applet)
 http://www.geocities.jp/z_gundam_tanosii/home/applet/Main.html  
 * http://assets.dwstatic.com/amkit/p/tank/play.html  
 * https://github.com/weimingtom/ugame/tree/master/projects/arcv04  
+* https://github.com/weimingtom/GalGame-Project-G  
+* https://github.com/jxWho/GalGame  
 
 ## Script Engine     
 
