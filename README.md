@@ -282,6 +282,7 @@ http://cn.piwigo.org
 * https://github.com/liudonghua/Novel  
 * https://github.com/wangsy1985/UnityProjects  
 * https://github.com/weimingtom/GalGame-1  
+* https://gitee.com/weimingtom/mynovel  
 
 ## Unity 5
 * https://github.com/weimingtom/GalGame-1  
