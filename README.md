@@ -211,10 +211,16 @@ search getilgenerator python
 * https://github.com/unicorn-engine/unicorn  
 * https://github.com/AlexAltea/unicorn.js  
 * https://github.com/micropython/micropython-unicorn  
+* arduboy  
 * https://github.com/mrboggieman/Arduboy.js  
 * https://github.com/buserror/simavr  
 * (o) https://github.com/arduboy-emulator/sim-arduboy  
 * https://gitee.com/weimingtom/GarboDev  
+* gamebuino  
+* http://legacy.gamebuino.com/wiki/index.php?title=Download  
+* https://github.com/33d/gbsim  
+* https://github.com/33d/gbsim-win  
+
 
 ## Arm Linux  
 * todo  
