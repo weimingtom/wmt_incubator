@@ -9,6 +9,7 @@ My incubator projects' index, more important than wmt_todo_list
 * https://github.com/weimingtom/kaleido  
 * https://gitee.com/weimingtom/sdlport2  
 * kohaku (for macos, search baidu pan)    
+* https://gitee.com/weimingtom/onscripter_en_fork2_sdlport2  
 
 ## Note  
 * https://github.com/weimingtom/wmt_software_skills  
