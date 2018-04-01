@@ -297,7 +297,7 @@ http://cn.piwigo.org
 (English)  
 * https://github.com/WYM/Aestas  
 (Chinese, TODO)  
-* 【自制】unity10天实现小型Galgame逻辑  
+* (NOTE: NOT mine)【自制】unity10天实现小型Galgame逻辑  
 https://www.bilibili.com/video/av20537050/  
 PC端可运行EXE：https://pan.baidu.com/s/1eO0m3FDli0U2lCvzrZjbbg  
 源码：https://pan.baidu.com/s/1a7_45WaGCVuM06G0ScBEwg  
