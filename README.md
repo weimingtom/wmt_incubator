@@ -10,6 +10,7 @@ My incubator projects' index, more important than wmt_todo_list
 * https://gitee.com/weimingtom/sdlport2  
 * kohaku (for macos, search baidu pan)    
 * https://gitee.com/weimingtom/onscripter_en_fork2_sdlport2  
+* https://gitee.com/weimingtom/wmt_lua_pil_study  
 
 ## Note  
 * https://github.com/weimingtom/wmt_software_skills  
