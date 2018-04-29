@@ -155,6 +155,7 @@ search getilgenerator python
 ### (10) etc  
 * https://github.com/weimingtom/RipString2  
 * https://github.com/weimingtom/ugame/tree/master/projects/galgame  
+* https://github.com/weimingtom/wren/tree/master/util/vs2010  
 
 ## 3D  
 * https://github.com/weimingtom/wmt_link_collections_in_Chinese/blob/master/mmd.md  
