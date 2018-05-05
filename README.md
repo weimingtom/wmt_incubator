@@ -307,3 +307,6 @@ PC端可运行EXE：https://pan.baidu.com/s/1eO0m3FDli0U2lCvzrZjbbg
 
 ## gles    
 lwjgl gles (TODO)    
+
+## Dict  
+search jkanji_edict in baidupan  
