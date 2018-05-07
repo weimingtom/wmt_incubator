@@ -45,6 +45,11 @@ http://www.geocities.jp/z_gundam_tanosii/home/applet/Main.html
 * https://github.com/weimingtom/ugame/tree/master/projects/arcv04  
 * https://github.com/weimingtom/GalGame-Project-G  
 * https://github.com/jxWho/GalGame  
+* Playground  
+* https://github.com/KLab/PlaygroundOSS  
+* SIF-Win32  
+* https://github.com/lijun0326/SIF-Win32  
+* https://github.com/bliustar/SIF_Win32  
 
 ### (2) html5  
 * https://github.com/weimingtom/wmt_link_collections_in_Chinese/blob/master/README.md#html5  
