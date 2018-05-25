@@ -62,6 +62,10 @@ http://www.geocities.jp/z_gundam_tanosii/home/applet/Main.html
 * JavaScript网页游戏制作轻松学  
 * https://github.com/cykod/Quintus  
 
+### (3) ddz  
+* https://github.com/weimingtom/ddz-1  
+* search baidupan doudizhu  
+
 ## Script Engine     
 
 ### (1) Lua  
