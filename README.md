@@ -320,3 +320,6 @@ lwjgl gles (TODO)
 
 ## Dict  
 search jkanji_edict in baidupan  
+
+## Android  
+TODO: DepthPageTransformer (???see twitter)    
