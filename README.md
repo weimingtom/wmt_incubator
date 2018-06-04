@@ -323,3 +323,4 @@ search jkanji_edict in baidupan
 
 ## Android  
 TODO: DepthPageTransformer (???see twitter)    
+https://blog.csdn.net/allen315410/article/details/44200623  
