@@ -66,6 +66,9 @@ http://www.geocities.jp/z_gundam_tanosii/home/applet/Main.html
 * https://github.com/weimingtom/ddz-1  
 * search baidupan doudizhu  
 
+### (4) vn  
+* https://github.com/weimingtom/wmt_link_collections_in_Chinese/blob/master/vn.md  
+
 ## Script Engine     
 
 ### (1) Lua  
