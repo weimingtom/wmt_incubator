@@ -69,6 +69,10 @@ http://www.geocities.jp/z_gundam_tanosii/home/applet/Main.html
 ### (4) vn  
 * https://github.com/weimingtom/wmt_link_collections_in_Chinese/blob/master/vn.md  
 
+### (5) cocos  
+* https://github.com/ZhouWeikuan/cocos2d  
+* https://github.com/weimingtom/cocos2d-android/  
+
 ## Script Engine     
 
 ### (1) Lua  
