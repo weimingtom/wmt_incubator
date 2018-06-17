@@ -107,6 +107,7 @@ port to java
 * (o) https://github.com/weimingtom/UniLuaMod  
 see baidu pan, jp.unity3d.SW2_2015-04-26.apk  
 * https://github.com/weimingtom/prophecy  
+* https://github.com/weimingtom/luacheck/tree/master/luacheck_mingw  
 
 ### (2) Java / dalvik    
 * https://github.com/ledyba/java.js  
