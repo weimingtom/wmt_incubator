@@ -69,6 +69,8 @@ http://www.geocities.jp/z_gundam_tanosii/home/applet/Main.html
 * https://github.com/weimingtom/wmt_link_collections_in_Chinese/blob/master/vn.md  
 * https://github.com/weimingtom/onscripter_en_fork2  
 * https://github.com/weimingtom/th2scriptengine  
+* https://github.com/weimingtom/krkrz110_fork  
+* (TODO) kirikiri2  
 
 ### (5) cocos  
 * https://github.com/ZhouWeikuan/cocos2d  
