@@ -72,6 +72,8 @@ http://www.geocities.jp/z_gundam_tanosii/home/applet/Main.html
 * https://github.com/weimingtom/krkrz110_fork  
 * (TODO) kirikiri2  
 * https://github.com/weimingtom/habakiri/tree/master/kirikirij  
+* https://github.com/svn2github/onscripter/tree/master/branches  
+* https://github.com/sekaiproject/ponscripter-fork/tree/master/src  
 
 ### (5) cocos  
 * https://github.com/ZhouWeikuan/cocos2d  
