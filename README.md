@@ -74,6 +74,7 @@ http://www.geocities.jp/z_gundam_tanosii/home/applet/Main.html
 * https://github.com/weimingtom/habakiri/tree/master/kirikirij  
 * https://github.com/svn2github/onscripter/tree/master/branches  
 * https://github.com/sekaiproject/ponscripter-fork/tree/master/src  
+* https://github.com/weimingtom/xclannad_fork  
 
 ### (5) cocos  
 * https://github.com/ZhouWeikuan/cocos2d  
