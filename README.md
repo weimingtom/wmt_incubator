@@ -80,6 +80,10 @@ http://www.geocities.jp/z_gundam_tanosii/home/applet/Main.html
 * https://github.com/ZhouWeikuan/cocos2d  
 * https://github.com/weimingtom/cocos2d-android/  
 
+### (6) cocos2d-x 2.x port  
+* https://github.com/weimingtom/adv_cocos2dx  
+* https://github.com/weimingtom/marika_cocos2dx/tree/cocos2dx_template  
+
 ## Script Engine     
 
 ### (1) Lua  
