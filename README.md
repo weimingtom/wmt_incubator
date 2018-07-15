@@ -85,9 +85,10 @@ http://www.geocities.jp/z_gundam_tanosii/home/applet/Main.html
 * https://github.com/weimingtom/marika_cocos2dx/tree/cocos2dx_template  
 * https://github.com/weimingtom/guichan_cocos2dx  
 * https://github.com/9miao/CrossApp  
+* search baidupan, CrossApp_0.4.2_mini_v1.rar  
 
 ### (7) cocos2d-x 3.x port  
-* search baidupan, cocos2d-x-3.0_boost_v1.rar, cocos2d-x-3.0alpha0-pre_boost_v1  
+* search baidupan, cocos2d-x-3.0_boost_v1.rar, cocos2d-x-3.0alpha0-pre_boost_v1.rar  
 
 ## Script Engine     
 
