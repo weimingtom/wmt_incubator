@@ -1,6 +1,9 @@
 # wmt_incubator
 My incubator projects' index, more important than wmt_todo_list  
 
+## TODO  
+* gtkmm, xkanon  
+
 ## Work  
 * https://gitee.com/weimingtom/TriangleSample  
 * https://github.com/weimingtom/Sakura  
