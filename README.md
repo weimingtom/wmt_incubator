@@ -347,7 +347,9 @@ PC端可运行EXE：https://pan.baidu.com/s/1eO0m3FDli0U2lCvzrZjbbg
 lwjgl gles (TODO)    
 
 ## Dict  
-search jkanji_edict in baidupan  
+* search jkanji_edict in baidupan  
+* https://github.com/weimingtom/wordsearch  
+* https://github.com/weimingtom/wmtdict  
 
 ## Android  
 TODO: DepthPageTransformer (???see twitter)    
