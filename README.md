@@ -1,9 +1,6 @@
 # wmt_incubator
 My incubator projects' index, more important than wmt_todo_list  
 
-## TODO  
-* gtkmm, xkanon  
-
 ## Work  
 * https://gitee.com/weimingtom/TriangleSample  
 * https://github.com/weimingtom/Sakura  
@@ -78,6 +75,7 @@ http://www.geocities.jp/z_gundam_tanosii/home/applet/Main.html
 * https://github.com/svn2github/onscripter/tree/master/branches  
 * https://github.com/sekaiproject/ponscripter-fork/tree/master/src  
 * https://github.com/weimingtom/xclannad_fork  
+* https://github.com/weimingtom/xkanon_fork  
 
 ### (5) cocos  
 * https://github.com/ZhouWeikuan/cocos2d  
