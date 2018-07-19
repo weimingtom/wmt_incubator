@@ -1,6 +1,10 @@
 # wmt_incubator
 My incubator projects' index, more important than wmt_todo_list  
 
+## TODO  
+* rapsbian/ubuntu: mono, opentk, sakura  
+* rapsbian/ubuntu: cocos2d-x 3.6  
+
 ## Work  
 * https://gitee.com/weimingtom/TriangleSample  
 * https://github.com/weimingtom/Sakura  
