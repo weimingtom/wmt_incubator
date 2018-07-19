@@ -126,6 +126,7 @@ port to java
 see baidu pan, jp.unity3d.SW2_2015-04-26.apk  
 * https://github.com/weimingtom/prophecy  
 * https://github.com/weimingtom/luacheck/tree/master/luacheck_mingw  
+* https://github.com/weimingtom/sharplua-1  
 
 ### (2) Java / dalvik    
 * https://github.com/ledyba/java.js  
