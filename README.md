@@ -2,11 +2,23 @@
 My incubator projects' index, more important than wmt_todo_list  
 
 ## TODO  
-* rapsbian/ubuntu: mono, opentk, sakura  
+* rapsbian/ubuntu: mono, opentk, sakura, angle    
+sakura_backup  
+https://github.com/weimingtom/wmt_rpi_study/tree/master/angle  
+
 * rapsbian/ubuntu: cocos2d-x 3.6  
+cocos2d-x-2.2.6_mod_v1.tar  
+http://cocos2d-x.org/docs/cocos2d-x/en/installation/prerequisites.html  
+
 * kirikiroid2 -> vs2010  
+krkr_work2  
+cpp-empty-test_20180719_v1_success (vs2013)  
+cpp-empty-test_20180719_v1_success_bin (vs2013)  
+cocos2d-x-3-boost  
+cocos2d-x-3.0_boost_v1 (vs2010)    
+cocos2d-x-3.6_v4_success (vs2010)    
+
 * xkanon, gtk+2 -> vs2010  
-* http://cocos2d-x.org/docs/cocos2d-x/en/installation/prerequisites.html  
 
 ## Work  
 * https://gitee.com/weimingtom/TriangleSample  
