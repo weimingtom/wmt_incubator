@@ -98,6 +98,9 @@ http://www.geocities.jp/z_gundam_tanosii/home/applet/Main.html
 ### (7) cocos2d-x 3.x port  
 * search baidupan, cocos2d-x-3.0_boost_v1.rar, cocos2d-x-3.0alpha0-pre_boost_v1.rar  
 
+### (8) java  
+* https://github.com/weimingtom/gtge_playground  
+
 ## Script Engine     
 
 ### (1) Lua  
