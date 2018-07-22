@@ -9,6 +9,7 @@ https://github.com/weimingtom/wmt_rpi_study/tree/master/angle
 * rapsbian/ubuntu: cocos2d-x 3.6  
 cocos2d-x-2.2.6_mod_v1.tar  
 http://cocos2d-x.org/docs/cocos2d-x/en/installation/prerequisites.html  
+glfw  
 
 * kirikiroid2 -> vs2010  
 krkr_work2  
@@ -19,6 +20,9 @@ cocos2d-x-3.0_boost_v1 (vs2010)
 cocos2d-x-3.6_v4_success (vs2010)    
 
 * xkanon, gtk+2 -> vs2010  
+
+* minigui -> rpi  
+minigui_all2  
 
 ## Work  
 * https://gitee.com/weimingtom/TriangleSample  
