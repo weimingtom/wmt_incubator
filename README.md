@@ -5,6 +5,7 @@ My incubator projects' index, more important than wmt_todo_list
 * rapsbian/ubuntu: mono, opentk, sakura, angle    
 sakura_backup  
 https://github.com/weimingtom/wmt_rpi_study/tree/master/angle  
+(build failed on ubuntu)    
 sakura_ubuntu  
 
 * rapsbian/ubuntu: cocos2d-x 3.6  
