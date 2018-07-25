@@ -20,6 +20,7 @@ cpp-empty-test_20180719_v1_success_bin (vs2013)
 cocos2d-x-3-boost  
 cocos2d-x-3.0_boost_v1 (vs2010)    
 cocos2d-x-3.6_v4_success (vs2010)    
+https://gitee.com/weimingtom/kirikiroid2_fork  
 
 * xkanon, gtk+2 -> vs2010  
 
