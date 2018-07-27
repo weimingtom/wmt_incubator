@@ -28,6 +28,7 @@ https://gitee.com/weimingtom/kirikiroid2_fork
 minigui_all2  
 
 * pylite  
+https://github.com/weimingtom/pylite/tree/master/win32_prj  
 
 * memcached  
 https://github.com/weimingtom/mmc_study/tree/master/memcached-1.1.12  
@@ -224,7 +225,7 @@ search getilgenerator python
 * https://github.com/weimingtom/UniLuaMod  
 * (o) boo, see baidu pan  
 * https://github.com/linuxmooc/pylite  
-see baidupan  
+* https://github.com/weimingtom/pylite/tree/master/win32_prj  
 
 ### (10) etc  
 * https://github.com/weimingtom/RipString2  
