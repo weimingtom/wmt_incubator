@@ -27,6 +27,12 @@ https://gitee.com/weimingtom/kirikiroid2_fork
 * minigui -> rpi  
 minigui_all2  
 
+* pylite  
+
+* memcached  
+https://github.com/weimingtom/mmc_study/tree/master/memcached-1.1.12  
+
+
 ## Work  
 * https://gitee.com/weimingtom/TriangleSample  
 * https://github.com/weimingtom/Sakura  
