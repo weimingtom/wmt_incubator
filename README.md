@@ -33,6 +33,11 @@ https://github.com/weimingtom/pylite/tree/master/win32_prj
 * memcached  
 https://github.com/weimingtom/mmc_study/tree/master/memcached-1.1.12  
 
+* lua coroutine  
+https://github.com/weimingtom/lua_test_coroutine  
+http://lua-users.org/wiki/LuaFiveTwo  
+search More freedom to yield()  
+http://lua-users.org/wiki/ResumableVmPatch  
 
 ## Work  
 * https://gitee.com/weimingtom/TriangleSample  
