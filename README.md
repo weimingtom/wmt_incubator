@@ -137,6 +137,7 @@ http://www.geocities.jp/z_gundam_tanosii/home/applet/Main.html
 ### (1) Lua  
 * (o) https://github.com/weimingtom/KopiLuaCompare  
 * https://github.com/weimingtom/mlua  
+lua on ruby  
 * (o) https://github.com/weimingtom/chunktrans_java    
 * https://github.com/weimingtom/chunktrans  
 * https://github.com/andyleap/LuaVM  
@@ -168,6 +169,8 @@ see baidu pan, jp.unity3d.SW2_2015-04-26.apk
 * https://github.com/weimingtom/prophecy  
 * https://github.com/weimingtom/luacheck/tree/master/luacheck_mingw  
 * https://github.com/weimingtom/sharplua-1  
+* https://github.com/dawee/moonchild  
+Lua VM crescent_moon for Arduino, search my baidupan  
 
 ### (2) Java / dalvik    
 * https://github.com/ledyba/java.js  
