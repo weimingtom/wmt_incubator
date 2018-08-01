@@ -42,6 +42,11 @@ http://lua-users.org/wiki/ResumableVmPatch
 * arduboy    
 search my baidupan ConsoleApplication13_v1.rar  
 
+* 51  
+
+* dalvik  
+https://github.com/weimingtom/dalvik_cygwin_port  
+
 ## Work  
 * https://gitee.com/weimingtom/TriangleSample  
 * https://github.com/weimingtom/Sakura  
