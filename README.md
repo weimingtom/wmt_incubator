@@ -2,16 +2,21 @@
 My incubator projects' index, more important than wmt_todo_list  
 
 ## TODO  
-* rapsbian/ubuntu: mono, opentk, sakura, angle    
+* raspbian/ubuntu: mono, opentk, sakura, angle    
 sakura_backup  
 https://github.com/weimingtom/wmt_rpi_study/tree/master/angle  
 (build failed on ubuntu)    
 sakura_ubuntu (run failed on ubuntu)    
 
-* rapsbian/ubuntu: cocos2d-x 3.6  
+* raspbian/ubuntu: cocos2d-x 3.6  
 cocos2d-x-2.2.6_mod_v1.tar  
 http://cocos2d-x.org/docs/cocos2d-x/en/installation/prerequisites.html  
 glfw  
+
+* raspbian(rpi) quake3  
+https://github.com/weimingtom/wmt_rpi_study  
+https://github.com/raspberrypi/quake3  
+https://github.com/ioquake/ioq3  
 
 * kirikiroid2 -> vs2010  
 krkr_work2  
@@ -41,6 +46,7 @@ http://lua-users.org/wiki/ResumableVmPatch
 
 * arduboy    
 search my baidupan ConsoleApplication13_v1.rar  
+https://gitee.com/weimingtom/lua1arduino  
 
 * 51  
 
@@ -49,6 +55,7 @@ https://github.com/weimingtom/dalvik_cygwin_port
 
 * arduino lua  
 search baidupan luaarduino, arduino_lua  
+https://gitee.com/weimingtom/lua1arduino  
 
 ## Work  
 * https://gitee.com/weimingtom/TriangleSample  
