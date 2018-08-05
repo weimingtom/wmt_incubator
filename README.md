@@ -57,6 +57,7 @@ https://github.com/weimingtom/dalvik_cygwin_port
 * arduino lua  
 search baidupan luaarduino, arduino_lua  
 https://gitee.com/weimingtom/lua1arduino  
+https://gitee.com/weimingtom/lua534arduino  
 
 ## Work  
 * https://gitee.com/weimingtom/TriangleSample  
