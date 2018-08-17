@@ -19,6 +19,12 @@ https://github.com/weimingtom/wmt_rpi_study
 https://github.com/raspberrypi/quake3  
 https://github.com/ioquake/ioq3  
 
+* quake3
+https://github.com/jfrelat/quakelight  
+https://github.com/id-Software/DOOM-3-BFG  
+https://gitlab.com/xonotic/darkplaces  
+https://github.com/xonotic/darkplaces  
+
 * kirikiroid2 -> vs2010  
 krkr_work2  
 cpp-empty-test_20180719_v1_success (vs2013)  
