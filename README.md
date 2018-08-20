@@ -68,6 +68,11 @@ https://gitee.com/weimingtom/lua534arduino
 
 * rts game  
 starxxxxx  
+https://www.raspberrypi.org/forums/viewtopic.php?t=96742  
+https://launchpad.net/stratagus/+download  
+https://launchpad.net/stargus/+download  
+https://github.com/Wargus/Stratagus  
+https://github.com/Wargus/stargus  
 
 ## Work  
 * https://gitee.com/weimingtom/TriangleSample  
