@@ -87,6 +87,9 @@ http://www.rlvm.net
 https://github.com/eglaysher/rlvm  
 https://gitee.com/weimingtom/rlvm_fork  
 
+* AI  
+https://github.com/weimingtom/wmt_ai_study  
+
 ## Work  
 * https://gitee.com/weimingtom/TriangleSample  
 * https://github.com/weimingtom/Sakura  
