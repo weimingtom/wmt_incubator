@@ -90,6 +90,9 @@ https://gitee.com/weimingtom/rlvm_fork
 * AI  
 https://github.com/weimingtom/wmt_ai_study  
 
+* v8  
+https://github.com/weimingtom/skv8example  
+
 ## Work  
 * https://gitee.com/weimingtom/TriangleSample  
 * https://github.com/weimingtom/Sakura  
