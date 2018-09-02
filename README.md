@@ -93,6 +93,9 @@ https://github.com/weimingtom/wmt_ai_study
 * v8  
 https://github.com/weimingtom/skv8example  
 
+* xlua  
+https://github.com/weimingtom/xlua_playground  
+
 ## Work  
 * https://gitee.com/weimingtom/TriangleSample  
 * https://github.com/weimingtom/Sakura  
