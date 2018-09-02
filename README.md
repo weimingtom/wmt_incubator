@@ -97,6 +97,12 @@ https://github.com/weimingtom/skv8example
 https://github.com/weimingtom/xlua_playground  
 port to mono and opentk (?)  
 
+* TorqueScript    
+http://wiki.torque3d.org/wiki:_scripter-start  
+https://github.com/GarageGames/Torque3D  
+http://torque3d.org  
+脚本级网络游戏编程  
+
 ## Work  
 * https://gitee.com/weimingtom/TriangleSample  
 * https://github.com/weimingtom/Sakura  
