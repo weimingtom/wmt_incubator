@@ -86,6 +86,9 @@ https://github.com/Ancurio/mkxp
 http://www.rlvm.net  
 https://github.com/eglaysher/rlvm  
 https://gitee.com/weimingtom/rlvm_fork  
+rlvm android  
+https://forums.fuwanovel.net/topic/3541-rlvm-for-android/  
+https://github.com/xyzz/rlvm  
 
 * AI  
 https://github.com/weimingtom/wmt_ai_study  
