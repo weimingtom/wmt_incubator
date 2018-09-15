@@ -145,12 +145,15 @@ andlive_20180915.rar
 FunctionV2_20180915.rar  
 liaotian_20180915.rar  
 
-* asp   
+* asp (in disk!!!)     
 pab_v6_视频播放.rar  
 cms  
 zyzx  
 search commons-fileupload-1.2.1.jar  
-**cmsproj.rar**  
+(*) cmsproj.rar  
+https://github.com/weimingtom/jqu_classic_asp  
+G:\_backup\company未整理\pan_c\inetpub.rar  
+inetpub.rar\inetpub\wwwroot\weixin_demo  
 
 ## Work  
 * https://gitee.com/weimingtom/TriangleSample  
