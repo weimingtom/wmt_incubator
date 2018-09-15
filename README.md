@@ -156,6 +156,7 @@ https://github.com/weimingtom/jqu_classic_asp
 https://github.com/weimingtom/mup_ie_classic_asp  
 G:\_backup\company未整理\pan_c\inetpub.rar  
 inetpub.rar\inetpub\wwwroot\weixin_demo  
+pan_e 代码收藏.rar 网站系统源代码破解版  
 
 * dict  
 https://github.com/weimingtom/dictims  
@@ -173,6 +174,9 @@ https://github.com/weimingtom/nianhao
 
 * pomelo  
 https://github.com/NetEase/pomelo  
+
+* csharp decompile  
+fe ???  
 
 ## Work  
 * https://gitee.com/weimingtom/TriangleSample  
