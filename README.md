@@ -117,8 +117,9 @@ search baidupan
 https://github.com/weimingtom/ugame  
 
 * ddz  
-doudizhu_v7.rar  
 search baidupan  
+search doudizhu_v7.rar  
+search doudizhu196_v1.rar  
 
 ## Work  
 * https://gitee.com/weimingtom/TriangleSample  
