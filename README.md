@@ -152,6 +152,7 @@ zyzx
 search commons-fileupload-1.2.1.jar  
 (*) cmsproj.rar  
 https://github.com/weimingtom/jqu_classic_asp  
+https://github.com/weimingtom/mup_ie_classic_asp  
 G:\_backup\company未整理\pan_c\inetpub.rar  
 inetpub.rar\inetpub\wwwroot\weixin_demo  
 
