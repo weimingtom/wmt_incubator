@@ -157,6 +157,7 @@ https://github.com/weimingtom/mup_ie_classic_asp
 G:\_backup\company未整理\pan_c\inetpub.rar  
 inetpub.rar\inetpub\wwwroot\weixin_demo  
 pan_e 代码收藏.rar 网站系统源代码破解版  
+search Admin_index.asp  
 https://github.com/shijiatongxue/Web_Demo  
 
 * dict  
