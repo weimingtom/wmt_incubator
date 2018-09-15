@@ -126,6 +126,7 @@ search doudizhu196_v1.rar
 
 * angle gles java wrapper    
 use SWIG ???  
+search baidupan testlwjgl  
 
 * cim mod  
 https://gitee.com/weimingtom/andsprite/tree/master/eclipse-web/cim-server  
