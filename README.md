@@ -142,6 +142,8 @@ search baidupan xlstrans_20180915_backup.rar
 
 * andlive  
 andlive_20180915.rar  
+FunctionV2_20180915.rar  
+liaotian_20180915.rar  
 
 ## Work  
 * https://gitee.com/weimingtom/TriangleSample  
