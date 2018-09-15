@@ -134,6 +134,12 @@ https://gitee.com/weimingtom/andsprite/tree/master/eclipse-web/cim-server
 * chrome exporter  
 WinClipboardExporter-master_v2_导出网易博客.rar  
 
+* nymmd  
+search baidupan mmd.rar  
+
+* xlstrans  
+search baidupan xlstrans_20180915_backup.rar  
+
 ## Work  
 * https://gitee.com/weimingtom/TriangleSample  
 * https://github.com/weimingtom/Sakura  
