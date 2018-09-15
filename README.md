@@ -33,6 +33,7 @@ cocos2d-x-3-boost
 cocos2d-x-3.0_boost_v1 (vs2010)    
 cocos2d-x-3.6_v4_success (vs2010)    
 https://gitee.com/weimingtom/kirikiroid2_fork  
+https://github.com/weimingtom/linnea  
 
 * xkanon, gtk+2 -> vs2010  
 
@@ -120,6 +121,9 @@ https://github.com/weimingtom/ugame
 search baidupan  
 search doudizhu_v7.rar  
 search doudizhu196_v1.rar  
+
+* angle gles java wrapper    
+use SWIG ???  
 
 ## Work  
 * https://gitee.com/weimingtom/TriangleSample  
