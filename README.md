@@ -127,6 +127,9 @@ search doudizhu196_v1.rar
 * angle gles java wrapper    
 use SWIG ???  
 
+* cim mod  
+https://gitee.com/weimingtom/andsprite/tree/master/eclipse-web/cim-server  
+
 ## Work  
 * https://gitee.com/weimingtom/TriangleSample  
 * https://github.com/weimingtom/Sakura  
