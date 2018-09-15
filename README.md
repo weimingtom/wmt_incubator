@@ -156,6 +156,10 @@ https://github.com/weimingtom/mup_ie_classic_asp
 G:\_backup\company未整理\pan_c\inetpub.rar  
 inetpub.rar\inetpub\wwwroot\weixin_demo  
 
+* dict  
+https://github.com/weimingtom/dictims  
+https://github.com/weimingtom/wordsearch  
+
 ## Work  
 * https://gitee.com/weimingtom/TriangleSample  
 * https://github.com/weimingtom/Sakura  
