@@ -160,6 +160,9 @@ inetpub.rar\inetpub\wwwroot\weixin_demo
 https://github.com/weimingtom/dictims  
 https://github.com/weimingtom/wordsearch  
 
+* gallery  
+https://github.com/weimingtom/nanamichan  
+
 ## Work  
 * https://gitee.com/weimingtom/TriangleSample  
 * https://github.com/weimingtom/Sakura  
