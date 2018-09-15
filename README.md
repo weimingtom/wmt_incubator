@@ -56,6 +56,7 @@ http://lua-users.org/wiki/ResumableVmPatch
 search my baidupan ConsoleApplication13_v1.rar  
 https://gitee.com/weimingtom/lua1arduino  
 os boy  
+https://gitee.com/weimingtom/arduboymod  
 
 * 51  
 
