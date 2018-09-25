@@ -64,6 +64,7 @@ https://gitee.com/weimingtom/arduboymod
 https://github.com/weimingtom/wmt_arduino_study  
 https://github.com/weimingtom/wmt_esp8266_study  
 https://github.com/weimingtom/wmt_rpi_study  
+https://github.com/weimingtom/wmt_8051_study  
 
 * dalvik  
 https://github.com/weimingtom/dalvik_cygwin_port  
