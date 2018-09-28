@@ -95,6 +95,7 @@ https://github.com/xyzz/rlvm
 
 * AI  
 https://github.com/weimingtom/wmt_ai_study  
+自然语言处理与深度学习 通过C语言模拟  
 
 * v8  
 https://github.com/weimingtom/skv8example  
