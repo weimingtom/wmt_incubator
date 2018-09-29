@@ -65,6 +65,8 @@ https://github.com/weimingtom/wmt_arduino_study
 https://github.com/weimingtom/wmt_esp8266_study  
 https://github.com/weimingtom/wmt_rpi_study  
 https://github.com/weimingtom/wmt_8051_study  
+
+* stm32  
 search Demo_lua10_v1_success, Demo_lua514_v1_failed in my baidupan  
 
 * dalvik  
