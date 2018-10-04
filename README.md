@@ -20,6 +20,7 @@ https://github.com/raspberrypi/quake3
 https://github.com/ioquake/ioq3  
 
 * rapsberry pi arm linux build  
+https://www.raspberrypi.org/documentation/linux/kernel/building.md  
 
 * quake3  
 https://github.com/jfrelat/quakelight  
