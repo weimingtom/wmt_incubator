@@ -19,6 +19,8 @@ https://github.com/weimingtom/wmt_rpi_study
 https://github.com/raspberrypi/quake3  
 https://github.com/ioquake/ioq3  
 
+* rapsberry pi arm linux build  
+
 * quake3  
 https://github.com/jfrelat/quakelight  
 https://github.com/id-Software/DOOM-3-BFG  
