@@ -199,8 +199,13 @@ https://github.com/weimingtom/wmt_screen_study
 search baidupan guichan_v1.rar  
 search baidupan guichan_port  
 
-* xunfei  
+* xunfei / android recorder    
 xunfei android client rip  
+https://gitee.com/weimingtom/xunfei  
+github_voice2\Android-SoundRecorder  
+github_wmt\ffmpeg-wrapper-hls  
+https://github.com/xiayouli0122/SoundRecorder  
+github_voice2\SoundRecorder_xiayouli0122  
 
 ## Work  
 * https://gitee.com/weimingtom/TriangleSample  
