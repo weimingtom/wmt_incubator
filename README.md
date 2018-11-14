@@ -199,6 +199,9 @@ https://github.com/weimingtom/wmt_screen_study
 search baidupan guichan_v1.rar  
 search baidupan guichan_port  
 
+* xunfei  
+xunfei client rip  
+
 ## Work  
 * https://gitee.com/weimingtom/TriangleSample  
 * https://github.com/weimingtom/Sakura  
