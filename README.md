@@ -200,7 +200,7 @@ search baidupan guichan_v1.rar
 search baidupan guichan_port  
 
 * xunfei  
-xunfei client rip  
+xunfei android client rip  
 
 ## Work  
 * https://gitee.com/weimingtom/TriangleSample  
