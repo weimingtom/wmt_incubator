@@ -2,6 +2,11 @@
 My incubator projects' index, more important than wmt_todo_list  
 
 ## TODO  
+* important  
+**guichan_port**  
+**kirikiroid2_fork**  
+**Bluetooth 2.0, 4.0 for Android and iOS**  
+
 * raspbian/ubuntu: mono, opentk, sakura, angle    
 sakura_backup  
 https://github.com/weimingtom/wmt_rpi_study/tree/master/angle  
