@@ -8,6 +8,7 @@ My incubator projects' index, more important than wmt_todo_list
 **Bluetooth 2.0, 4.0 for Android and iOS**  
 **uart image receive**  
 **esp32_mmd**    
+**alios things**  
 
 * raspbian/ubuntu: mono, opentk, sakura, angle    
 sakura_backup  
