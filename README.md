@@ -9,6 +9,8 @@ My incubator projects' index, more important than wmt_todo_list
 **uart image receive**  
 **esp32_mmd**    
 **alios things**  
+**KopiLuaCompare**  
+**ucgui, guichan**  
 
 * raspbian/ubuntu: mono, opentk, sakura, angle    
 sakura_backup  
