@@ -217,6 +217,9 @@ github_wmt\ffmpeg-wrapper-hls
 https://github.com/xiayouli0122/SoundRecorder  
 github_voice2\SoundRecorder_xiayouli0122  
 
+* asr  
+https://github.com/weimingtom/wmt_speech_study  
+
 ## Work  
 * https://gitee.com/weimingtom/TriangleSample  
 * https://github.com/weimingtom/Sakura  
