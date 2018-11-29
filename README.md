@@ -12,6 +12,7 @@ My incubator projects' index, more important than wmt_todo_list
 **KopiLuaCompare**  
 **ucgui, guichan**  
 **stm8s cannot debug**  
+**hc05 android, ble android recv**  
 
 * raspbian/ubuntu: mono, opentk, sakura, angle    
 sakura_backup  
