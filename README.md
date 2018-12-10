@@ -13,6 +13,7 @@ My incubator projects' index, more important than wmt_todo_list
 **ucgui, guichan**  
 **stm8s cannot debug**  
 **hc05 android, ble android recv**  
+**rpi zero, static link, sdl : (baidupan) static_v2.tar.gz**  
 
 * raspbian/ubuntu: mono, opentk, sakura, angle    
 sakura_backup  
