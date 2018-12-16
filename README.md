@@ -14,6 +14,8 @@ My incubator projects' index, more important than wmt_todo_list
 **stm8s cannot debug**  
 **hc05 android, ble android recv**  
 **rpi zero, static link, sdl : (baidupan) static_v2.tar.gz**  
+**wifiboy**  
+**https://gitee.com/weimingtom/onscripter_en_fork2_sdlport2**  
 
 * raspbian/ubuntu: mono, opentk, sakura, angle    
 sakura_backup  
