@@ -18,6 +18,7 @@ My incubator projects' index, more important than wmt_todo_list
 **https://gitee.com/weimingtom/onscripter_en_fork2_sdlport2**  
 **sdlemu_v2.rar**  
 **https://github.com/weimingtom/sdlport**  
+**https://github.com/jarikomppa/emu8051**  
 
 * raspbian/ubuntu: mono, opentk, sakura, angle    
 sakura_backup  
