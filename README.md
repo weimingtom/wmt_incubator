@@ -19,6 +19,7 @@ My incubator projects' index, more important than wmt_todo_list
 **sdlemu_v2.rar**  
 **https://github.com/weimingtom/sdlport**  
 **https://github.com/jarikomppa/emu8051**  
+**baidupan emu8051_072.zip**  
 
 * raspbian/ubuntu: mono, opentk, sakura, angle    
 sakura_backup  
