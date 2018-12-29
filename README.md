@@ -22,6 +22,7 @@ My incubator projects' index, more important than wmt_todo_list
 **baidupan emu8051_072.zip**  
 **rhino debugger**  
 **gamebuino snake_v1.rar**  
+**infones_v1.zip**  
 
 * raspbian/ubuntu: mono, opentk, sakura, angle    
 sakura_backup  
