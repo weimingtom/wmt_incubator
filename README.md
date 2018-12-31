@@ -2,7 +2,7 @@
 My incubator projects' index, more important than wmt_todo_list  
 
 ## TODO  
-* 2019 pLans  
+* 2019 plans  
 https://github.com/weimingtom/BlenderStudy  
 
 * important  
