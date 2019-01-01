@@ -5,17 +5,20 @@ My incubator projects' index, more important than wmt_todo_list
 * 2019 plans  
 https://github.com/weimingtom/BlenderStudy  
 
+* 蓝牙  
+**Bluetooth 2.0, 4.0 for Android and iOS**  
+**hc05 android, ble android recv**  
+**amarino**  
+
 * important  
 **guichan_port**  
 **kirikiroid2_fork**  
-**Bluetooth 2.0, 4.0 for Android and iOS**  
 **uart image receive**  
 **esp32_mmd**    
 **alios things**  
 **KopiLuaCompare**  
 **ucgui, guichan**  
 **stm8s cannot debug**  
-**hc05 android, ble android recv**  
 **rpi zero, static link, sdl : (baidupan) static_v2.tar.gz**  
 **wifiboy**  
 **https://gitee.com/weimingtom/onscripter_en_fork2_sdlport2**  
