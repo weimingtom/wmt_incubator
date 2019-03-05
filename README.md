@@ -410,6 +410,9 @@ https://github.com/apache/lucene-solr/tree/master/lucene/expressions/src/java/or
 * search habakiri in my baidu pan  
 * KAS4PC / moka  
 * search kage-kirie in baidupan  
+* http://114.215.126.213/post/krkrSharp  
+* https://github.com/Project-AZUSA/KirikiriSharp  
+* https://github.com/Project-AZUSA/KirikiriSharp/tree/master/Tjs2Disassembler  
 
 ### (5) Nokscript  
 * https://github.com/weimingtom/nokscript_java  
