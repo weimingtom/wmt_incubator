@@ -591,6 +591,7 @@ https://www.bilibili.com/video/av20537050/
 PC端可运行EXE：https://pan.baidu.com/s/1eO0m3FDli0U2lCvzrZjbbg  
 源码：https://pan.baidu.com/s/1a7_45WaGCVuM06G0ScBEwg  
 (Chinese, TODO)  
+* https://github.com/yukuyoulei/Unity-GUI-Game-In-Single-File  
 
 ## gles    
 lwjgl gles (TODO)    
