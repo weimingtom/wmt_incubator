@@ -31,6 +31,10 @@ https://github.com/weimingtom/BlenderStudy
 **infones_v1.zip**  
 **ucgui, minigui**  
 
+* Links  
+https://github.com/weimingtom/wmt_link_collections_in_Chinese  
+https://github.com/weimingtom/Kuuko/blob/master/lua_hack.md  
+
 * raspbian/ubuntu: mono, opentk, sakura, angle    
 sakura_backup  
 https://github.com/weimingtom/wmt_rpi_study/tree/master/angle  
