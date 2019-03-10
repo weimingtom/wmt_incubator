@@ -34,8 +34,10 @@ https://github.com/weimingtom/BlenderStudy
 * Links  
 https://github.com/weimingtom/wmt_link_collections_in_Chinese  
 https://github.com/weimingtom/Kuuko/blob/master/lua_hack.md  
+https://github.com/weimingtom/Kuuko/blob/master/README2.md  
 https://github.com/weimingtom/wmt_todo_list  
 https://github.com/weimingtom/BlenderStudy  
+https://github.com/weimingtom/wmt_arduino_study  
 
 * raspbian/ubuntu: mono, opentk, sakura, angle    
 sakura_backup  
