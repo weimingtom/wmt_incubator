@@ -38,6 +38,8 @@ https://github.com/weimingtom/Kuuko/blob/master/README2.md
 https://github.com/weimingtom/wmt_todo_list  
 https://github.com/weimingtom/BlenderStudy  
 https://github.com/weimingtom/wmt_arduino_study  
+search study  
+search wmt_  
 
 * raspbian/ubuntu: mono, opentk, sakura, angle    
 sakura_backup  
