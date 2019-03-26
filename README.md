@@ -249,6 +249,9 @@ github_voice2\SoundRecorder_xiayouli0122
 * asr  
 https://github.com/weimingtom/wmt_speech_study  
 
+* picoc  
+https://gitlab.com/zsaleeba/picoc  
+
 ## Work  
 * https://gitee.com/weimingtom/TriangleSample  
 * https://github.com/weimingtom/Sakura  
