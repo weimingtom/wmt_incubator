@@ -251,6 +251,7 @@ https://github.com/weimingtom/wmt_speech_study
 
 * picoc  
 https://gitlab.com/zsaleeba/picoc  
+https://github.com/larryhe/tiny-c-interpreter  
 (baidupan) picoc_vc6_v1.rar  
 port to csharp (?)  
 
