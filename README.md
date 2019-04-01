@@ -252,6 +252,7 @@ https://github.com/weimingtom/wmt_speech_study
 * picoc  
 https://gitlab.com/zsaleeba/picoc  
 (baidupan) picoc_vc6_v1.rar  
+port to csharp (?)  
 
 ## Work  
 * https://gitee.com/weimingtom/TriangleSample  
