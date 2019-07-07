@@ -176,6 +176,9 @@ https://github.com/weimingtom/ugame
 search baidupan  
 search doudizhu_v7.rar  
 search doudizhu196_v1.rar  
+search DDZGameForBook  
+https://gitee.com/weimingtom/Projects  
+https://gitee.com/weimingtom/We-are-the-one  
 
 * angle gles java wrapper    
 use SWIG ???  
