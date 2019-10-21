@@ -415,6 +415,9 @@ Lua VM crescent_moon for Arduino, search my baidupan
 * https://github.com/jethazel/jet-compiler  
 search OP_CONST_16 dalvik  
 * https://gitee.com/weimingtom/in-the-box  
+* https://github.com/ReadyTalk/avian   
+* http://jamvm.sourceforge.net  
+* https://github.com/cfriedt/jamvm  
 
 ### (3) Javascript  
 * https://github.com/weimingtom/skv8example  
