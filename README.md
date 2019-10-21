@@ -7,6 +7,13 @@ https://github.com/weimingtom/Kuuko/blob/master/README2.md
 
 * avian  
 https://github.com/ReadyTalk/avian  
+for raspbian desktop (rpd), with jdk8      
+$ sudo find / -name "jni.h"  
+$ JAVA_HOME=/usr/lib/jvm/oracle-java8-jdk-i386 make build-arch=i386  
+for mingw, tdm-gcc    
+$ make bootimage=true use-lto=false  
+$ javac -bootclasspath classpath.jar Hello.java  
+$ ./avian.exe -Xbootclasspath:classpath.jar Hello  
 
 * ponscripter-fork  
 https://github.com/sekaiproject/ponscripter-fork  
