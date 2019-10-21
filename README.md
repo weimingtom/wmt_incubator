@@ -2,6 +2,12 @@
 My incubator projects' index, more important than wmt_todo_list  
 
 ## TODO  
+* readme2  
+https://github.com/weimingtom/Kuuko/blob/master/README2.md  
+
+* avian  
+https://github.com/ReadyTalk/avian  
+
 * ponscripter-fork  
 https://github.com/sekaiproject/ponscripter-fork  
 
