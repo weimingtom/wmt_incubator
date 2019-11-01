@@ -2,6 +2,11 @@
 My incubator projects' index, more important than wmt_todo_list  
 
 ## TODO  
+* LuaPerfect  
+https://github.com/jiangzheng1986/LuaPerfect  
+https://www.zhihu.com/question/275559445/answer/818981073  
+https://luaperfect.net/article/ReleaseNotes/  
+
 * Unity案例开发大全（第二版）  
 search baidupan 案例开发  
 https://www.ptpress.com.cn/shopping/buy?bookId=995319f1-5ee7-414d-bd50-e824ce11ab0c  
