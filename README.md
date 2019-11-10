@@ -5,6 +5,9 @@ My incubator projects' index, more important than wmt_todo_list
 * krkrs  
 https://github.com/uyjulian/krkrs  
 
+* onscripter-switch  
+https://github.com/uyjulian/onscripter-switch  
+
 * TencentOS-tiny  
 https://github.com/Tencent/TencentOS-tiny  
 
