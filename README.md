@@ -2,6 +2,9 @@
 My incubator projects' index, more important than wmt_todo_list  
 
 ## TODO  
+* small games  
+4399, 7k7k  
+
 * pdf to png converter  
 https://github.com/crislin2046/p2.  
 https://secureview.cloudbrowser.xyz/secretpage-canneverbefound.html  
