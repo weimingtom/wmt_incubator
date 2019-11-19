@@ -2,6 +2,9 @@
 My incubator projects' index, more important than wmt_todo_list  
 
 ## TODO  
+* 解决C# luainterface 中文乱码问题  
+https://blog.csdn.net/lyq240919525/article/details/88374587  
+
 * small games  
 4399, 7k7k  
 
