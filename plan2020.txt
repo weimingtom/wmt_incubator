@@ -1,0 +1,6 @@
+下一年我计划自己琢磨做一个Lua的子集出来。功能很简单，四则运算，赋值，条件循环，函数定义，就这四个功能就够了。目前手头上可以参照的代码：
+（1）手工lexer和运行时：参考nokscript，https://github.com/weimingtom/nokscript_java
+（2）antlr：参考see，https://github.com/weimingtom/SeeMod
+（3）bison：参考myosotis2，https://github.com/weimingtom/myosotis2
+（4）函数实现：参考C#的dotnet编译器语法检查策略，它的做法是先扫描函数外的语法结构，如果函数大括号外的语法是正确的，再检查函数内的语法错误。
+我打算用这个思路，把函数分割成不同的虚拟文件
