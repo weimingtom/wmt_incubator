@@ -326,6 +326,12 @@ https://github.com/larryhe/tiny-c-interpreter
 (baidupan) picoc_vc6_v1.rar  
 port to csharp (?)  
 
+## readme2 note    
+for script except lua    
+https://github.com/weimingtom/Kuuko/blob/master/README2.md  
+for lua  
+https://github.com/weimingtom/Kuuko/edit/master/lua_hack.md  
+
 ## Work  
 * https://gitee.com/weimingtom/TriangleSample  
 * https://github.com/weimingtom/Sakura  
