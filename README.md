@@ -2,6 +2,9 @@
 My incubator projects' index, more important than wmt_todo_list  
 
 ## TODO  
+* https://github.com/ZeroYang/Rhythm  
+用Cocos2d-x开发跨平台游戏，高仿《节奏大师》游戏  
+
 * https://github.com/momotech/MLN  
 高性能、小巧、易上手的移动跨平台开发框架. A framework for building Mobile cross-platform apps with Lua  
 lua java bind in android  
