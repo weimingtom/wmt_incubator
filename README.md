@@ -337,6 +337,9 @@ for script except lua
 https://github.com/weimingtom/Kuuko/blob/master/README2.md  
 for lua  
 https://github.com/weimingtom/Kuuko/edit/master/lua_hack.md  
+wmt_screen_study  
+https://github.com/weimingtom/wmt_screen_study  
+
 
 ## Work  
 * https://gitee.com/weimingtom/TriangleSample  
