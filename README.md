@@ -2,6 +2,8 @@
 My incubator projects' index, more important than wmt_todo_list  
 
 ## TODO  
+* https://github.com/naptha/tesseract.js  
+
 * https://github.com/ZeroYang/Rhythm  
 用Cocos2d-x开发跨平台游戏，高仿《节奏大师》游戏  
 
