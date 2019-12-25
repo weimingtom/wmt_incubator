@@ -2,6 +2,9 @@
 My incubator projects' index, more important than wmt_todo_list  
 
 ## TODO  
+* lua like lint  
+(search baidupan) Biljan_v1_build_failed.rar  
+
 * ionic  
 https://github.com/ionic-team/ionic  
 
