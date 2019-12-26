@@ -9,6 +9,7 @@ https://github.com/doocs/jvm
 (search baidupan) Biljan_v1_build_failed.rar  
 (search baidupan) Biljan_v2.rar  
 (search baidupan) Lint_v3_success.rar  
+https://github.com/weimingtom/BiljanMod  
 
 * https://github.com/weimingtom/sharplua-1  
 TODO: unity化  
@@ -491,6 +492,8 @@ see baidu pan, jp.unity3d.SW2_2015-04-26.apk
 * https://github.com/weimingtom/sharplua-1  
 * https://github.com/dawee/moonchild  
 Lua VM crescent_moon for Arduino, search my baidupan  
+* https://github.com/weimingtom/BiljanMod  
+* https://github.com/weimingtom/sharplua-1  
 
 ### (2) Java / dalvik    
 * https://github.com/ledyba/java.js  
