@@ -2,6 +2,9 @@
 My incubator projects' index, more important than wmt_todo_list  
 
 ## TODO  
+* pythonnet min  
+(search baidupan) pythonnet_v6_begin_remove.rar  
+
 * jvm  
 https://github.com/doocs/jvm  
 
