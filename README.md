@@ -4,6 +4,7 @@ My incubator projects' index, more important than wmt_todo_list
 ## TODO  
 * pythonnet min  
 (search baidupan) pythonnet_v6_begin_remove.rar  
+方向：(1) 极小化 (2) 极小化+可回调宿主函数 （3）完整版可unity运行  
 
 * jvm  
 https://github.com/doocs/jvm  
