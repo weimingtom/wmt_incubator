@@ -2,6 +2,10 @@
 My incubator projects' index, more important than wmt_todo_list  
 
 ## TODO  
+* https://github.com/jackzhenguo/python-small-examples  
+
+* https://github.com/brettwooldridge/HikariCP  
+
 * pythonnet min  
 (search baidupan) pythonnet_v6_begin_remove.rar  
 方向：(1) 极小化 (2) 极小化+可回调宿主函数 （3）完整版可unity运行  
