@@ -2,6 +2,9 @@
 My incubator projects' index, more important than wmt_todo_list  
 
 ## TODO  
+* My Vue project, wxapp-like    
+https://github.com/weimingtom/wxm  
+
 * https://github.com/jackzhenguo/python-small-examples  
 
 * https://github.com/brettwooldridge/HikariCP  
