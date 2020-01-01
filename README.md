@@ -2,6 +2,9 @@
 My incubator projects' index, more important than wmt_todo_list  
 
 ## TODO  
+* kirin, port kurumi (kopilua java) to kotlin  
+search baidupan: kirin_v3_compile_fail.rar  
+
 * My Vue project, wxapp-like    
 https://github.com/weimingtom/wxm  
 
