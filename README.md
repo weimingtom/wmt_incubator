@@ -2,6 +2,10 @@
 My incubator projects' index, more important than wmt_todo_list  
 
 ## TODO  
+* subc  
+http://www.t3x.org/subc/  
+https://github.com/DoctorWkt/acwj  
+
 * kirin, port kurumi (kopilua java) to kotlin  
 search baidupan: kirin_v3_compile_fail.rar  
 
