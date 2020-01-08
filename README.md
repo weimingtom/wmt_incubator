@@ -2,6 +2,9 @@
 My incubator projects' index, more important than wmt_todo_list  
 
 ## TODO  
+* njs  
+search baidupan njs-0.3.7_vs2013_v1.rar  
+
 * subc  
 http://www.t3x.org/subc/  
 https://github.com/DoctorWkt/acwj  
