@@ -5,7 +5,7 @@ My incubator projects' index, more important than wmt_todo_list
 * subc  
 http://www.t3x.org/subc/  
 https://github.com/DoctorWkt/acwj  
-编译器compiler  
+编译器compiler, search baidupan: subc    
 see below, picoc  
 
 * kirin, port kurumi (kopilua java) to kotlin  
