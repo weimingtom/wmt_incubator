@@ -2,6 +2,13 @@
 My incubator projects' index, more important than wmt_todo_list  
 
 ## TODO  
+* papervision3d_java
+https://github.com/weimingtom/papervision3d_java  
+search baidupan pv3d  
+
+* tgui port  
+https://github.com/weimingtom/misaki  
+
 * njs  
 search baidupan njs-0.3.7_vs2013_v1.rar  
 javascript, see jx9  
