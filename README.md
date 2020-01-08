@@ -4,12 +4,15 @@ My incubator projects' index, more important than wmt_todo_list
 ## TODO  
 * njs  
 search baidupan njs-0.3.7_vs2013_v1.rar  
+see jx9  
 
 * subc  
 http://www.t3x.org/subc/  
 https://github.com/DoctorWkt/acwj  
 编译器compiler, search baidupan: subc    
 see below, picoc  
+c4  
+https://github.com/DoctorWkt/acwj/tree/master/00_Introduction  
 
 * kirin, port kurumi (kopilua java) to kotlin  
 search baidupan: kirin_v3_compile_fail.rar  
