@@ -13,6 +13,7 @@ https://github.com/DoctorWkt/acwj
 see below, picoc  
 c4  
 https://github.com/DoctorWkt/acwj/tree/master/00_Introduction  
+https://github.com/weimingtom/wmt_yacc_study  
 
 * kirin, port kurumi (kopilua java) to kotlin  
 search baidupan: kirin_v3_compile_fail.rar  
