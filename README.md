@@ -2,6 +2,8 @@
 My incubator projects' index, more important than wmt_todo_list  
 
 ## TODO  
+* https://github.com/CarGuo/GSYVideoPlayer  
+
 * papervision3d_java  
 https://github.com/weimingtom/papervision3d_java  
 search baidupan pv3d  
