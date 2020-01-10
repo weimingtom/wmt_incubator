@@ -2,8 +2,10 @@
 My incubator projects' index, more important than wmt_todo_list  
 
 ## TODO  
-* jsc  
+* jsc / javascriptcore    
 https://github.com/eddieh/android-jsc  
+javascript  
+https://github.com/weimingtom/minijoe  
 
 * https://github.com/CarGuo/GSYVideoPlayer  
 
