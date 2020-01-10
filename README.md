@@ -2,6 +2,10 @@
 My incubator projects' index, more important than wmt_todo_list  
 
 ## TODO  
+* debugger  
+https://github.com/weimingtom/Rhino.Net  
+https://github.com/weimingtom/Kuuko/blob/master/lua_hack.md  
+
 * jsc / javascriptcore    
 https://github.com/eddieh/android-jsc  
 javascript  
