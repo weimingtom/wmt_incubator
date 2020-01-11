@@ -2,6 +2,10 @@
 My incubator projects' index, more important than wmt_todo_list  
 
 ## TODO  
+* onscripter-jh sdl2  
+https://github.com/weimingtom/onscripter_jh_sdl2_fork  
+https://github.com/weimingtom/sdl2_vc6_demo  
+
 * debugger  
 https://github.com/weimingtom/Rhino.Net  
 https://github.com/weimingtom/Kuuko/blob/master/lua_hack.md  
