@@ -10,6 +10,8 @@ https://github.com/weimingtom/Kuuko/blob/master/lua_hack.md
 https://github.com/eddieh/android-jsc  
 javascript  
 https://github.com/weimingtom/minijoe  
+深入剖析 JavaScriptCore  
+https://www.jianshu.com/p/e220e1f34a0b  
 
 * https://github.com/CarGuo/GSYVideoPlayer  
 
