@@ -2,6 +2,10 @@
 My incubator projects' index, more important than wmt_todo_list  
 
 ## TODO  
+* LuaInterface, pythonnet    
+https://github.com/weimingtom/pythonnetmod  
+https://github.com/weimingtom/LuaInterfaceMod  
+
 * onscripter-jh sdl2  
 https://github.com/weimingtom/onscripter_jh_sdl2_fork  
 https://github.com/weimingtom/sdl2_vc6_demo  
