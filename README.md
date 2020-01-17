@@ -6,6 +6,7 @@ My incubator projects' index, more important than wmt_todo_list
 search fbtest.c  
 search SDL-1.2.15_makefile_framebuffer_v0.zip  
 https://github.com/weimingtom/pxcore  
+Mandelbrot, fractal, 分形  
 
 * LuaInterface, pythonnet    
 https://github.com/weimingtom/pythonnetmod  
