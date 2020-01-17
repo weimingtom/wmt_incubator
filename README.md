@@ -2,6 +2,11 @@
 My incubator projects' index, more important than wmt_todo_list  
 
 ## TODO  
+* framebuffer  
+search fbtest.c  
+search SDL-1.2.15_makefile_framebuffer_v0.zip  
+https://github.com/weimingtom/pxcore  
+
 * LuaInterface, pythonnet    
 https://github.com/weimingtom/pythonnetmod  
 https://github.com/weimingtom/LuaInterfaceMod  
