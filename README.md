@@ -43,6 +43,7 @@ https://github.com/weimingtom/misaki
 * njs  
 search baidupan njs-0.3.7_vs2013_v1.rar  
 javascript, see jx9  
+https://github.com/weimingtom/njs_fork  
 
 * subc  
 http://www.t3x.org/subc/  
