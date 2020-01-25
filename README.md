@@ -2,6 +2,11 @@
 My incubator projects' index, more important than wmt_todo_list  
 
 ## TODO  
+* https://github.com/cocos2d/cocos2d-x-samples  
+https://github.com/cocos-creator/example-3d  
+https://github.com/chenyugang/cocos-ide-editor/tree/master/com.xy.xeditor/cocos-view-native  
+http://www.cocos2d-x.org/MoonWarriors/index.html  
+
 * https://github.com/weimingtom/wmt_screen_study  
 
 * https://github.com/danistefanovic/build-your-own-x#build-your-own-programming-language  
