@@ -2,6 +2,9 @@
 My incubator projects' index, more important than wmt_todo_list  
 
 ## TODO  
+* kaldi  
+https://www.cnblogs.com/talkaudiodev/p/11240033.html  
+
 * 微信小程序相册, java移植    
 search baidupan, wxPhotos  
 
