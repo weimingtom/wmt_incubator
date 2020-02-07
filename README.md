@@ -2,6 +2,9 @@
 My incubator projects' index, more important than wmt_todo_list  
 
 ## TODO  
+* 微信小程序相册, java移植    
+search baidupan, wxPhotos  
+
 * awesome-dotnet  
 https://github.com/quozd/awesome-dotnet  
 
