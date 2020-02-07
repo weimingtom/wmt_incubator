@@ -2,6 +2,9 @@
 My incubator projects' index, more important than wmt_todo_list  
 
 ## TODO  
+* awesome-dotnet  
+https://github.com/quozd/awesome-dotnet  
+
 * js, javascript interpreter  
 javascript, js解释器，移植到csharp，可运行  
 baidupan, minijoe_v9_run_success.rar  
