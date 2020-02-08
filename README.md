@@ -231,6 +231,7 @@ https://github.com/weimingtom/BlenderStudy
 https://github.com/weimingtom/wmt_arduino_study  
 search study  
 search wmt_  
+https://github.com/weimingtom/wmt_yacc_study  
 
 * raspbian/ubuntu: mono, opentk, sakura, angle    
 sakura_backup  
@@ -449,14 +450,15 @@ https://github.com/larryhe/tiny-c-interpreter
 (baidupan) picoc_vc6_v1.rar  
 port to csharp (?)  
 
-## readme2 note    
+## readme2 note (search 'link' in this page)     
 for script except lua    
 https://github.com/weimingtom/Kuuko/blob/master/README2.md  
 for lua  
 https://github.com/weimingtom/Kuuko/edit/master/lua_hack.md  
 wmt_screen_study  
 https://github.com/weimingtom/wmt_screen_study  
-
+yacc  
+https://github.com/weimingtom/wmt_yacc_study  
 
 ## Work  
 * https://gitee.com/weimingtom/TriangleSample  
@@ -645,11 +647,12 @@ https://github.com/apache/lucene-solr/tree/master/lucene/expressions/src/java/or
 ### (5) Nokscript  
 * https://github.com/weimingtom/nokscript_java  
 
-### (6) Antlr  
+### (6) Antlr / YACC    
 * スクリプトエンジン プログラミング  
 * https://github.com/weimingtom/myosotis2  
 * https://github.com/weimingtom/SeeMod  
 * https://github.com/weimingtom/FastFireFrame_preview  
+* https://github.com/weimingtom/wmt_yacc_study  
 
 ### (7) Ruby  
 * https://gitee.com/weimingtom/rubymod  
