@@ -538,6 +538,8 @@ http://www.geocities.jp/z_gundam_tanosii/home/applet/Main.html
 * my project  
 * https://github.com/weimingtom/FastFireFrame_preview  
 * https://github.com/weimingtom/marika_java  
+* search baidupan, nsdump, nsdumper  
+* search baidupan, nscripter_java.rar  
 
 ### (5) cocos  
 * https://github.com/ZhouWeikuan/cocos2d  
