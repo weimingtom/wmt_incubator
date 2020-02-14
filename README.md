@@ -527,7 +527,9 @@ http://www.geocities.jp/z_gundam_tanosii/home/applet/Main.html
 ### (4) vn  
 * https://github.com/weimingtom/wmt_link_collections_in_Chinese/blob/master/vn.md  
 * https://github.com/weimingtom/onscripter_en_fork2  
+* search nsdump, nsdumper  
 * https://github.com/weimingtom/th2scriptengine  
+* search sdtdump  
 * https://github.com/weimingtom/krkrz110_fork  
 * (TODO) kirikiri2  
 * https://github.com/weimingtom/habakiri/tree/master/kirikirij  
