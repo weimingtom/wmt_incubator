@@ -5,6 +5,7 @@ My incubator projects' index, more important than wmt_todo_list
 * vn, xsystem35  
 https://github.com/kichikuou/system3-sdl2  
 https://github.com/kichikuou/xsystem35-sdl2  
+https://github.com/kichikuou/web  
 fort to gitee  
 not start to study  
 
