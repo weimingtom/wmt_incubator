@@ -2,6 +2,12 @@
 My incubator projects' index, more important than wmt_todo_list  
 
 ## TODO  
+* vn, xsystem35  
+https://github.com/kichikuou/system3-sdl2  
+https://github.com/kichikuou/xsystem35-sdl2  
+fort to gitee  
+not start to study  
+
 * vn, xnscripchan    
 (TODO) search baidupan, xnscripchan_v3_vc6.rar  
 
