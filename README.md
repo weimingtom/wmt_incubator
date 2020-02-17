@@ -2,6 +2,9 @@
 My incubator projects' index, more important than wmt_todo_list  
 
 ## TODO  
+* vn, xnscripchan    
+(TODO) search baidupan, xnscripchan_v3_vc6.rar  
+
 * swing like gui  
 https://github.com/weimingtom/xwing  
 
