@@ -2,6 +2,10 @@
 My incubator projects' index, more important than wmt_todo_list  
 
 ## TODO  
+* nsdumper, nscripter  
+search baidupan nscripter3_v2.rar    
+search baidupan 月姬，月箱  
+
 * lyadmin, tp5, ThinkPHP 5  
 https://github.com/ijry/lyadmin  
 https://www.lingyun.net/lyadmin.html  
