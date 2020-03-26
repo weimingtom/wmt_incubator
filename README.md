@@ -2,6 +2,10 @@
 My incubator projects' index, more important than wmt_todo_list  
 
 ## TODO  
+* 移植nsdumper到html5 canvas  
+https://github.com/weimingtom/wmt_todo_list#quarkjs  
+https://github.com/weimingtom/stg_java_port  
+
 * 整理各种linux开发板的：  
 (1) IO口分布  
 (2) Debug调试串口的接法  
