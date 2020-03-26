@@ -2,6 +2,10 @@
 My incubator projects' index, more important than wmt_todo_list  
 
 ## TODO  
+* vn: novelpress android  
+vn: xnscriptchan  
+vn: nsdumper, nscripter3  
+
 * nsdumper, nscripter  
 search baidupan nscripter3_v2.rar    
 search baidupan 月姬，月箱  
