@@ -2,6 +2,18 @@
 My incubator projects' index, more important than wmt_todo_list  
 
 ## TODO  
+* 整理各种linux开发板的：  
+(1) IO口分布  
+(2) Debug调试串口的接法  
+(3) putty串口配置  
+(4) busybox系统默认密码  
+(5) 如何上传文件  
+(6) 如何切换启动模式（切换TF卡启动）  
+(7) 编译用ubuntu，预备安装包  
+
+* svg  
+https://github.com/dntzhang/cax  
+
 * （TODO）搭建后台框架模板(脚手架），待整理上传gh      
 (java) F :\company\photos  
 (asp) C:\inetpub\wwwroot\ljweb  
