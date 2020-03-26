@@ -2,6 +2,13 @@
 My incubator projects' index, more important than wmt_todo_list  
 
 ## TODO  
+* （TODO）搭建后台框架模板(脚手架），待整理上传gh      
+(java) F :\company\photos  
+(asp) C:\inetpub\wwwroot\ljweb  
+(html) F:\company\photos_vendor\lightyear\yinqi-Light-Year-Example-master  
+(php5) F:\port\apache\htdocs\lyadmin  
+(nodejs) G:\work_admin\CmsWing  
+
 * vn: novelpress android  
 vn: xnscriptchan  
 vn: nsdumper, nscripter3  
