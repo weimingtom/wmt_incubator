@@ -596,6 +596,8 @@ http://www.geocities.jp/z_gundam_tanosii/home/applet/Main.html
 * search baidupan, nsdump, nsdumper  
 * search baidupan, nscripter_java.rar  
 * https://gitee.com/weimingtom2000/nscripter_java  
+* https://gitee.com/weimingtom/onscripter_en_fork2_sdlport2  
+* https://github.com/weimingtom/onscripter_jh_sdl2_fork  
 
 ### (5) cocos  
 * https://github.com/ZhouWeikuan/cocos2d  
