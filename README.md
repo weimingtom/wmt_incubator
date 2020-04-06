@@ -1,6 +1,9 @@
 # wmt_incubator
 My incubator projects' index, more important than wmt_todo_list  
 
+## vn
+search xclannad  
+
 ## TODO  
 * 移植nsdumper到html5 canvas  
 https://github.com/weimingtom/wmt_todo_list#quarkjs  
@@ -592,6 +595,7 @@ http://www.geocities.jp/z_gundam_tanosii/home/applet/Main.html
 * https://github.com/weimingtom/marika_java  
 * search baidupan, nsdump, nsdumper  
 * search baidupan, nscripter_java.rar  
+* https://gitee.com/weimingtom2000/nscripter_java  
 
 ### (5) cocos  
 * https://github.com/ZhouWeikuan/cocos2d  
