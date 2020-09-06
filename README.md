@@ -21,6 +21,8 @@ Lua
 Python  
 * https://github.com/weimingtom/wmt_ai_study  
 AI, Linux, MCU    
+* https://github.com/weimingtom/wmt_vn_study  
+Visual novel engine list    
 
 ## vn  
 search xclannad  
