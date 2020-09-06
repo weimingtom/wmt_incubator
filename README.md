@@ -13,6 +13,14 @@ Project list about Lua
 * https://github.com/weimingtom/wmt_screen_study    
 https://github.com/weimingtom/wmt_ai_study/blob/master/live_001.md  
 video live, amf3    
+* https://github.com/weimingtom/njs_fork  
+JavaScript    
+* https://github.com/weimingtom/KopiLuaCompare  
+Lua  
+* https://github.com/weimingtom/cecilia  
+Python  
+* https://github.com/weimingtom/wmt_ai_study  
+AI, Linux, MCU    
 
 ## vn  
 search xclannad  
