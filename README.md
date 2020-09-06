@@ -1,7 +1,13 @@
 # wmt_incubator
 My incubator projects' index, more important than wmt_todo_list  
 
-## vn
+## etc    
+* https://github.com/weimingtom/wmt_todo_list  
+Less important things  
+* https://github.com/weimingtom/wmt_link_collections_in_Chinese  
+Some tips recording  
+
+## vn  
 search xclannad  
 
 ## TODO  
