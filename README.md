@@ -10,6 +10,9 @@ Some tips recording
 Script engine list  
 * https://github.com/weimingtom/Kuuko/blob/master/lua_hack.md  
 Project list about Lua  
+* https://github.com/weimingtom/wmt_screen_study    
+https://github.com/weimingtom/wmt_ai_study/blob/master/live_001.md  
+video live, amf3    
 
 ## vn  
 search xclannad  
