@@ -6,6 +6,10 @@ My incubator projects' index, more important than wmt_todo_list
 Less important things  
 * https://github.com/weimingtom/wmt_link_collections_in_Chinese  
 Some tips recording  
+* https://github.com/weimingtom/Kuuko/blob/master/README2.md  
+Script engine list  
+* https://github.com/weimingtom/Kuuko/blob/master/lua_hack.md  
+Project list about Lua  
 
 ## vn  
 search xclannad  
