@@ -28,6 +28,8 @@ Visual novel engine list
 search xclannad  
 
 ## TODO  
+* https://github.com/huangrt01/CS-Notes  
+
 * 移植nsdumper到html5 canvas  
 https://github.com/weimingtom/wmt_todo_list#quarkjs  
 https://github.com/weimingtom/stg_java_port  
